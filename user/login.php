@@ -32,7 +32,6 @@
 ?>	
 	<h2><?php echo __("Login"); ?></h2>
 	<form action="<?php echo LOGIN;?>&lang=<?php echo $_REQUEST['lang'];?>" method="post" name="frmLogin" id="frmLogin" class="frm_login frm">
-	<p class="top-alert"><?php echo __("Se você não possui cadastro, "); ?><a href="<?php echo SIGNUP ?>&lang=<?php echo $lang; ?>"><?php echo __("cadastre-se."); ?></a></p>	
 		<div id="login-holder">
 
 			<div class="clear"></div>
@@ -69,17 +68,18 @@
 			</div>
 			<!--  end #loginbox -->
 
-			<br><br>
+			<br>
 			<div id="forgotbox">
 				
 				<a id="link-forgot" href="<?php echo INDEX;?>?module=user&page=forgot_password&lang=<?php echo $_REQUEST['lang'];?>"><?php echo __("Esqueci minha senha");?></a>				
 			</div>
 			<!--  end #forgotbox -->
 
-		</div>
 		<!-- End #login-holder -->
 
-	</form>
+	</form>			<br>
+	<p class="top-alert"><?php echo __("Se você não possui cadastro, "); ?><a href="<?php echo SIGNUP ?>&lang=<?php echo $lang; ?>"><?php echo __("cadastre-se."); ?></a></p>	
+		</div>
 
 <?php
 

@@ -1,7 +1,7 @@
 ﻿<form action="index.php?module=user&page=signup&lang=<?php echo $_REQUEST['lang'];?>" method="post" name="frmSignup" id="frmSignup" class="frm_signup frm">
     <h2><?php echo __("Formulario de Cadastro");?></h2>
 
-	<p class="top-alert"><?php echo __("Se você já possui cadastro, "); ?><a href="<?php echo LOGIN ?>&lang=<?php echo $lang; ?>"><?php echo __("efetue seu login."); ?></a></p>
+
 	
 	<label for="name" id="lblName" class="frm_label"><?php echo __("Nome:");?> </label> 
 	<input type="text" name="name" id="name" class="inp_txt frm_inp" /> 
@@ -28,7 +28,8 @@
 	<br /> 
 	<div class="clear"></div>
 	<input type="submit" value="<?php echo __("Cadastrar");?>" id="submit" name="submit" class="bt_submit frm_bt" />
-
+	<br><br><Br>
+	<p class="top-alert"><?php echo __("Se você já possui cadastro, "); ?><a href="<?php echo LOGIN ?>&lang=<?php echo $lang; ?>"><?php echo __("efetue seu login."); ?></a></p>
 </form>
 <?php
 

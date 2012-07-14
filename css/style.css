@@ -306,6 +306,7 @@ h1#logo-principal
 	padding: 20px;
 	font-size: 16px;
 	font-weight: bold;
+	text-align: center;
 }
 
 h2
@@ -513,6 +514,12 @@ ul#menu_survey_page li a:hover, ul#menu_survey_page li a:visited:hover
 	margin: 10px 0 20px 0;
 	font-style: italic;
 	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	border:1px solid #8ab6ff;
+	background: #e0ecff;
+	padding: 15px;
+	line-height: 24px;
 }
 
 .tbl_question_body th
@@ -1514,3 +1521,4 @@ a.seletor_toggle
 	padding: 5px;
 	font-weight: bold;
 }
+

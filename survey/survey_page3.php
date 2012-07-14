@@ -71,13 +71,13 @@ if(!empty($_REQUEST['SavePage3']) || !empty($_REQUEST['NextPageSurvey']))
 				
 				$msgErrorSurvey[27]  = null;
 				
-				if(!isset($item[0]))$msgErrorSurvey[27] .= __("Selecione um item do sub-item A da questão 25").'||';
-				if(!isset($item[1]))$msgErrorSurvey[27] .= __("Selecione um item do sub-item B da questão 25").'||';
-				if(!isset($item[2]))$msgErrorSurvey[27] .= __("Selecione um item do sub-item C da questão 25").'||';
-				if(!isset($item[3]))$msgErrorSurvey[27] .= __("Selecione um item do sub-item D da questão 25").'||';
-				if(!isset($item[4]))$msgErrorSurvey[27] .= __("Selecione um item do sub-item E da questão 25").'||';
-				if(!isset($item[5]))$msgErrorSurvey[27] .= __("Selecione um item do sub-item F da questão 25").'||';
-				if(!isset($item[6]))$msgErrorSurvey[27] .= __("Selecione um item do sub-item G da questão 25").'||';
+				if(!isset($item[0]) || $item[0] == '')$msgErrorSurvey[27] .= __("Selecione um item do sub-item A da questão 25").'||';
+				if(!isset($item[1]) || $item[1] == '')$msgErrorSurvey[27] .= __("Selecione um item do sub-item B da questão 25").'||';
+				if(!isset($item[2]) || $item[2] == '')$msgErrorSurvey[27] .= __("Selecione um item do sub-item C da questão 25").'||';
+				if(!isset($item[3]) || $item[3] == '')$msgErrorSurvey[27] .= __("Selecione um item do sub-item D da questão 25").'||';
+				if(!isset($item[4]) || $item[4] == '')$msgErrorSurvey[27] .= __("Selecione um item do sub-item E da questão 25").'||';
+				if(!isset($item[5]) || $item[5] == '')$msgErrorSurvey[27] .= __("Selecione um item do sub-item F da questão 25").'||';
+				if(!isset($item[6]) || $item[6] == '')$msgErrorSurvey[27] .= __("Selecione um item do sub-item G da questão 25").'||';
 
 				
 				if(is_null($msgErrorSurvey[27])) unset($msgErrorSurvey[27]);
@@ -151,11 +151,12 @@ if(!empty($_REQUEST['SavePage3']) || !empty($_REQUEST['NextPageSurvey']))
 					if(($i%2 == 0) && (!empty($item[$i])) && (strpos(trim($item[$i])) !== 0)) $item[$i] = (int)trim($item[$i]);
 					
 					$item[$i] = FilterData($item[$i]);
+					if(($i%2 == 0) && ($item[$i] < 0 || $item[$i] > 100)) $not_num++;
 				}
 				
 				if($not_num >0)
 				{
-					$msgErrorSurvey[30] = __("Preencha a questão 28 com valores numéricos.").'<BR>';
+					$msgErrorSurvey[30] = __("Preencha a questão 28 com valores numéricos inteiros de 0 a 100.").'<BR>';
 				}
 				
 				
@@ -187,11 +188,12 @@ if(!empty($_REQUEST['SavePage3']) || !empty($_REQUEST['NextPageSurvey']))
 					if(($i%2 == 0) && (!empty($item[$i])) && (strpos(trim($item[$i])) !== 0)) $item[$i] = (int)trim($item[$i]);
 					
 					$item[$i] = FilterData($item[$i]);
+					if(($i%2 == 0) && ($item[$i] < 0 || $item[$i] > 100)) $not_num++;
 				}
 				
 				if($not_num >0)
 				{
-					$msgErrorSurvey[31] = __("Preencha a questão 29 com valores numéricos").'<BR>';
+					$msgErrorSurvey[31] = __("Preencha a questão 29 com valores numéricos inteiros de 0 a 100").'<BR>';
 				}
 				
 				if($item[0] == null && $item[1] == null && $item[2] == null && $item[3] == null)
@@ -352,6 +354,7 @@ if(!empty($_REQUEST['SavePage3']) || !empty($_REQUEST['NextPageSurvey']))
 			{
 				$errorMessage = urlencode(__("Informacoes nao foram salvas com sucesso"));
 				
+				exit();
 				#Chamaremos a funcao criada para direcionar as mensagens.
 				errorMsg(INDEX, 'survey', 'survey_main', $errorMessage, $_REQUEST['lang'], "&user_id=".$user_id."&action=".$action);
 			}

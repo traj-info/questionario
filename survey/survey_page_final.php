@@ -91,7 +91,7 @@ else
 				WHERE 
 				user_id = ".$user_id." AND
 				question1 is not null AND
-				question2 is not null AND
+				
 				question3 is not null AND
 				question4 is not null AND
 				question5 is not null AND
