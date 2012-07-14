@@ -1,0 +1,2356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: questionario\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-02 13:58-0300\n"
+"PO-Revision-Date: 2012-07-02 13:58-0300\n"
+"Last-Translator: Elaine <elaine@trajettoria.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:/xampp/htdocs/questionario\n"
+
+#: C:/xampp/htdocs/questionario/index.php:127
+#: C:/xampp/htdocs/questionario/index.php:169
+msgid "Questionario Cientifico"
+msgstr "Questionário Científico"
+
+#: C:/xampp/htdocs/questionario/index.php:172
+msgid "Página inicial"
+msgstr "Página Principal"
+
+#: C:/xampp/htdocs/questionario/index.php:177
+msgid "Menu principal"
+msgstr "Menu principal"
+
+#: C:/xampp/htdocs/questionario/index.php:178
+#: C:/xampp/htdocs/questionario/control_panel/dashboard.php:25
+msgid "Meus dados pessoais"
+msgstr "Meus dados pessoais"
+
+#: C:/xampp/htdocs/questionario/index.php:181
+msgid "Sair"
+msgstr "Sair"
+
+#: C:/xampp/htdocs/questionario/index.php:188
+msgid "Login"
+msgstr "Login"
+
+#: C:/xampp/htdocs/questionario/index.php:189
+msgid "Cadastrar"
+msgstr "Cadastrar"
+
+#: C:/xampp/htdocs/questionario/welcome.php:1
+msgid "Pesquisa sobre a prática da Ecoendoscopia (EUS) na América Latina"
+msgstr "Pesquisa sobre a prática da Ecoendoscopia (EUS) na América Latina"
+
+#: C:/xampp/htdocs/questionario/welcome.php:3
+msgid "Caros colegas,"
+msgstr "Caros colegas,"
+
+#: C:/xampp/htdocs/questionario/welcome.php:5
+msgid "A prática da ecoendoscopia (EUS) vem crescendo nos últimos anos, mas o seu real status na América Latina é desconhecido. Pensando nesta lacuna, elaboramos um questionário com o objetivo de coletar informações de todos os médicos que realizam ecoendoscopia nos diversos países da América Latina."
+msgstr "A prática da ecoendoscopia (EUS) vem crescendo nos últimos anos, mas o seu real status na América Latina é desconhecido. Pensando nesta lacuna, elaboramos um questionário com o objetivo de coletar informações de todos os médicos que realizam ecoendoscopia nos diversos países da América Latina."
+
+#: C:/xampp/htdocs/questionario/welcome.php:7
+msgid "Contamos com a sua valiosa contribuição respondendo este questionário."
+msgstr "Contamos com a sua valiosa contribuição respondendo este questionário."
+
+#: C:/xampp/htdocs/questionario/welcome.php:8
+msgid "Ele não tomará mais do que 8 minutos do seu tempo."
+msgstr "Ele não tomará mais do que 8 minutos do seu tempo."
+
+#: C:/xampp/htdocs/questionario/welcome.php:13
+msgid "ATENÇÃO: Para manter todas as suas informações e respostas estritamente confidenciais, inicialmente você precisará fazer um cadastro rápido que lhe permitirá receber no seu e-mail uma senha para acesso ao questionário."
+msgstr "ATENÇÃO: Para manter todas as suas informações e respostas estritamente confidenciais, inicialmente você precisará fazer um cadastro rápido que lhe permitirá receber no seu e-mail uma senha para acesso ao questionário."
+
+#: C:/xampp/htdocs/questionario/welcome.php:13
+msgid "Clique aqui para se cadastrar."
+msgstr "Clique aqui para se cadastrar."
+
+#: C:/xampp/htdocs/questionario/welcome.php:15
+msgid "Por favor, responda o questionário apenas se você realiza EUS."
+msgstr "Por favor, responda o questionário apenas se você realiza ecoendoscopia."
+
+#: C:/xampp/htdocs/questionario/welcome.php:17
+msgid "Obrigado."
+msgstr "Obrigado."
+
+#: C:/xampp/htdocs/questionario/welcome.php:23
+msgid "Se ainda não possui cadastro, "
+msgstr "Se ainda não possui cadastro, "
+
+#: C:/xampp/htdocs/questionario/welcome.php:23
+msgid "cadastre-se"
+msgstr "cadastre-se"
+
+#: C:/xampp/htdocs/questionario/welcome.php:24
+msgid "Se você já possui cadastro, "
+msgstr "Se você já possui cadastro, "
+
+#: C:/xampp/htdocs/questionario/welcome.php:24
+msgid "efetue seu login"
+msgstr "efetue seu login"
+
+#: C:/xampp/htdocs/questionario/welcome.php:30
+msgid "Diretoria do CLEUS 2010-2012"
+msgstr "Diretoria do CLEUS 2010-2012"
+
+#: C:/xampp/htdocs/questionario/welcome.php:31
+msgid "Cecilia Castillo (Chile)"
+msgstr "Cecilia Castillo (Chile)"
+
+#: C:/xampp/htdocs/questionario/welcome.php:32
+msgid "José Ricardo Ruíz Obaldía (Panamá)"
+msgstr "José Ricardo Ruíz Obaldía (Panamá)"
+
+#: C:/xampp/htdocs/questionario/welcome.php:33
+msgid "Lucio G. B. Rossini (Brasil)"
+msgstr "Lucio G. B. Rossini (Brasil)"
+
+#: C:/xampp/htdocs/questionario/welcome.php:34
+msgid "Wallia Wever (Venezuela)"
+msgstr "Wallia Wever (Venezuela)"
+
+#: C:/xampp/htdocs/questionario/welcome.php:35
+msgid "Colaboradores da pesquisa"
+msgstr "Colaboradores da pesquisa"
+
+#: C:/xampp/htdocs/questionario/welcome.php:36
+msgid "Juliana Marques Drigo (Brasil)"
+msgstr "Juliana Marques Drigo (Brasil)"
+
+#: C:/xampp/htdocs/questionario/welcome.php:37
+msgid "Sheila Fillipi (Brasil)"
+msgstr "Sheila Fillipi (Brasil)"
+
+#: C:/xampp/htdocs/questionario/welcome.php:38
+msgid "Inicialmente este questionário foi enviado a todos os médicos que se tornaram amigos do CLEUS/SIED (Capítulo Latinoamericano de Ecoendoscopia - "
+msgstr "Inicialmente este questionário foi enviado a todos os médicos que se tornaram amigos do CLEUS/SIED (Capítulo Latinoamericano de Ecoendoscopia - "
+
+#: C:/xampp/htdocs/questionario/welcome.php:38
+msgid " / Sociedade Interamericana de Endoscopia Digestiva - "
+msgstr " / Sociedade Interamericana de Endoscopia Digestiva - "
+
+#: C:/xampp/htdocs/questionario/welcome.php:38
+msgid "). Se você ainda não é amigo do CLEUS, algum colega o indicou e por este motivo você está recebendo este questionário."
+msgstr "). Se você ainda não é amigo do CLEUS, algum colega o indicou e por este motivo você está recebendo este questionário."
+
+#: C:/xampp/htdocs/questionario/welcome.php:39
+msgid "Solicitamos seu apoio incentivando os seus colegas que realizam EUS e ainda não são amigos do CLEUS a preencher este questionário. Divulgue aos seus colegas nosso endereço!"
+msgstr "Solicitamos seu apoio incentivando os seus colegas que realizam ecoendoscopia e ainda não são amigos do CLEUS a preencher este questionário. Envie este e-mail para seu colega para ele poder participar da pesquisa."
+
+#: C:/xampp/htdocs/questionario/welcome.php:40
+msgid "Se você tem alguma dúvida, por favor, não hesite em nos comunicar: "
+msgstr "Se você tem alguma dúvida, por favor, não hesite em nos comunicar: "
+
+#: C:/xampp/htdocs/questionario/control_panel/dashboard.php:21
+msgid "Configuracoes"
+msgstr "Configurações"
+
+#: C:/xampp/htdocs/questionario/control_panel/dashboard.php:22
+msgid "Destinatarios"
+msgstr "Destinatários"
+
+#: C:/xampp/htdocs/questionario/control_panel/dashboard.php:23
+msgid "Usuarios"
+msgstr "Usuários"
+
+#: C:/xampp/htdocs/questionario/control_panel/dashboard.php:24
+msgid "Relatorios"
+msgstr "Relatórios"
+
+#: C:/xampp/htdocs/questionario/control_panel/dashboard.php:26
+msgid "Alterar Senha"
+msgstr "Alterar Senha"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_add.php:2
+msgid "Adicionar Destinatário"
+msgstr "Adicionar Destinatário"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_add.php:8
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:86
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:29
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:25
+msgid "Nome"
+msgstr "Nome"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_add.php:12
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:87
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:30
+msgid "E-mail"
+msgstr "E-mail"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_add.php:16
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:88
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:31
+msgid "Idioma"
+msgstr "Idioma"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_add.php:41
+msgid "Salvar"
+msgstr "Salvar"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_add.php:42
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:120
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:21
+msgid "Cancelar"
+msgstr "Cancelar"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_add.php:91
+msgid "Destinatario nao adicionado"
+msgstr "Destinatário não adicionado"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_add.php:100
+msgid "Destinatario adicionado com sucesso"
+msgstr "Destinatário adicionado com sucesso"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_add.php:109
+msgid "Destinat&aacute;rio j&aacute; adicionado"
+msgstr "Destinatário já adicionado"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:4
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:5
+msgid "Selecione um destinatario"
+msgstr "Selecione um destinatario"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:34
+msgid "Destinatario(s) n&atilde;o excluido(s). Tente novamente."
+msgstr "Destinatario(s) n&atilde;o excluido(s). Tente novamente."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:43
+msgid "Destinat&aacute;rio(s) exclu&iacute;do(s) com sucesso"
+msgstr "Destinat&aacute;rio(s) exclu&iacute;do(s) com sucesso"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:54
+msgid "Exclus&atilde;o cancelada com sucesso."
+msgstr "Exclus&atilde;o cancelada com sucesso."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:74
+msgid "Excluir Destinatário(s)"
+msgstr "Excluir Destinatário(s)"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:89
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:32
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:41
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:72
+msgid "Status"
+msgstr "Status"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:118
+msgid "Deseja realmente excluir esses destinatarios?"
+msgstr "Deseja realmente excluir esses destinatários?"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_delete.php:119
+msgid "Confirmar"
+msgstr "Confirmar"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:2
+msgid "Importar lista de destinatários"
+msgstr "Importando uma Lista de Destinatários"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:3
+msgid "O sistema reconhe arquivos no formato .csv, com valores separados por ponto-e-vírgula, codificados em UTF-8, sendo 1 destinatário por linha. Em cada linha, o layout esperado é: nome;email;lang. Lang admite os seguintes valores: pt_BR, en_US ou es_ES, correspondendo ao idioma em que será enviado o e-mail. A primeira linha é o cabeçalho e será ignorada durante a importação."
+msgstr "O sistema reconhe arquivos no formato .csv, com valores separados por ponto-e-vírgula, codificados em UTF-8, sendo 1 destinatário por linha. Em cada linha, o layout esperado é: nome;email;lang. Lang admite os seguintes valores: pt_BR, en_US ou es_ES, correspondendo ao idioma em que será enviado o e-mail. A primeira linha é o cabeçalho e será ignorada durante a importação."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:4
+msgid "Contate a Trajettoria TI caso tenha dúvidas sobre como gerar o arquivo de destinatários no formato apropriado."
+msgstr "Contate a Trajettoria TI caso tenha dúvidas sobre como gerar o arquivo de destinatários no formato apropriado."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:14
+msgid "Buscar Arquivo"
+msgstr "Buscar Arquivo"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:20
+msgid "Enviar"
+msgstr "Enviar"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:44
+msgid "Formato de arquivo inv&aacute;lido."
+msgstr "Formato de arquivo inv&aacute;lido."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:165
+msgid "Alguns destinatarios n&atilde;o foram importados. Tente novamente."
+msgstr "Destinatários não importados. Tente novamente."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:174
+msgid "Destinatarios importados com sucesso"
+msgstr "Destinatários importados com sucesso"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:183
+msgid "Arquivo invalido. Tente novamente."
+msgstr "Arquivo inválido. Tente novamente."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:194
+#: C:/xampp/htdocs/questionario/control_panel/recipients_import.php:203
+msgid "Selecione um arquivo."
+msgstr "Selecione um arquivo."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_list.php:29
+msgid "Ver log"
+msgstr "Ver log"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_options.php:2
+msgid "Destinatários"
+msgstr "Destinatários"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_options.php:5
+msgid "Adicionar Destinatario"
+msgstr "Adicionar Destinatário"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_options.php:6
+msgid "Importar Destinatarios"
+msgstr "Importar Destinatários"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_options.php:22
+msgid "Com marcados: "
+msgstr "Com marcados: "
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_options.php:23
+msgid "Excluir"
+msgstr "Excluir"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_options.php:24
+msgid "Reenviar"
+msgstr "Reenviar"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:17
+msgid "Reenvio de e-mail"
+msgstr "Reenvio de e-mail"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:62
+msgid "Deseja realmente reenviar o e-mail para esses destinatarios?"
+msgstr "Deseja realmente reenviar o e-mail para esses destinatários?"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:91
+msgid "Falha na adicao dos destinatarios para reenvio de e-mail. Tente novamente."
+msgstr "Falha na adição dos destinatários para reenvio de e-mail. Tente novamente."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:100
+msgid "Destinatarios adicionados para reenvio de e-mail."
+msgstr "Destinatários adicionados para reenvio de e-mail."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_resend_emails.php:110
+msgid "Reenvio cancelado com sucesso."
+msgstr "Reenvio cancelado com sucesso."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:20
+msgid "Informacoes sobre o destinatario"
+msgstr "Informações sobre o destinatário"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:21
+msgid "NOTA: a contagem de visualizações baseia-se no carregamento de uma imagem no e-mail enviado. Se o software leitor de e-mail possuir mecanismo de bloqueio de carregamento de imagens, sua leitura não é computada."
+msgstr "NOTA: a contagem de visualizações baseia-se no carregamento de uma imagem no e-mail enviado. Se o software leitor de e-mail possuir mecanismo de bloqueio de carregamento de imagens, sua leitura não é computada."
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:29
+msgid "Email"
+msgstr "E-mail"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:33
+msgid "Total de visualizacoes"
+msgstr "Total de visualizações"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:37
+msgid "Ultima visualizacao"
+msgstr "Última visualização:"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:45
+msgid "Data de criacao"
+msgstr "Data de criação:"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:65
+msgid "Log de envio de e-mail"
+msgstr "Log de Envio de e-mails"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:71
+msgid "Data"
+msgstr "Data"
+
+#: C:/xampp/htdocs/questionario/control_panel/recipients_sent_emails_log.php:94
+msgid "Sem log de envio de e-mail"
+msgstr "Sem log de envio de e-mail"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports.php:3
+msgid "Relat&oacute;rios"
+msgstr "Relatórios"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports.php:6
+msgid "Exportar Dados para .CSV"
+msgstr "Exportar Dados para .CSV"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports.php:7
+msgid "Relat&oacute;rio de Acesso dos Usu&aacute;rios"
+msgstr "Relat&oacute;rio de Acesso dos Usu&aacute;rios"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports.php:8
+msgid "Relat&oacute;rio no Navegador"
+msgstr "Relat&oacute;rio no Navegador"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:2
+msgid "Relat&oacute;rio das Respostas do Question&aacute;rio"
+msgstr "Relat&oacute;rio das Respostas do Question&aacute;rio"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:34
+msgid "Configurações do relatório:"
+msgstr "Configurações do relatório:"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:36
+msgid "Status do Usuário"
+msgstr "Status do Usuário"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:55
+msgid "Status do Questionário"
+msgstr "Status do Questionário"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:71
+msgid "Salvar configurações"
+msgstr "Salvar configurações"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:76
+msgid "Configurações selecionadas:"
+msgstr "Configurações selecionadas:"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:80
+msgid "Status do <strong>usu&aacute;rio</strong>: "
+msgstr "Status do <strong>usu&aacute;rio</strong>: "
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:93
+msgid "Status do <strong>questionário</strong>: "
+msgstr "Status do <strong>questionário</strong>: "
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:146
+msgid "Total de pessoas avaliadas: "
+msgstr "Total de pessoas avaliadas: "
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:188
+msgid "1. Sexo:"
+msgstr "1. Sexo:"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:248
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:381
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:470
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:564
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:853
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1005
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1131
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1257
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1385
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1514
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1653
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1803
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:279
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:98
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:347
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:464
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:580
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:684
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:819
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:947
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1075
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1203
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1332
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1471
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1621
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1741
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1847
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1946
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2045
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2145
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2247
+msgid "Os valores não permitem a criação de um gráfico"
+msgstr "Os valores não permitem a criação de um gráfico"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:310
+msgid "2. Idade:"
+msgstr "2. Idade:"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:415
+msgid "3. Formacao medica (assinale todas as aplicaveis):"
+msgstr "3. Formação médica (assinale todas as aplicáveis):"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:429
+msgid " Gastroenterologia"
+msgstr "Gastroenterologia"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:434
+msgid " Cirurgia"
+msgstr "Cirurgia"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:509
+msgid "4. Voce realiza ou foi treinado em CPRE?"
+msgstr "4. Você realiza ou foi treinado em CPRE?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:523
+msgid " Sim, eu realizo."
+msgstr "Sim, eu realizo."
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:528
+msgid " Nao."
+msgstr "Não."
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:533
+msgid " Eu fui treinado, mas nao realizo mais."
+msgstr "Eu fui treinado, mas não realizo mais."
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:646
+msgid "5. Como voce caracterizaria a sua pratica atual em EUS? (assinale todas as aplicaveis):"
+msgstr "5. Como você caracterizaria a sua prática atual em EUS? (assinale todas as aplicáveis):"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:710
+msgid "Alguns valores não permitiram a criação de um gráfico"
+msgstr "Alguns valores não permitiram a criação de um gráfico"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:777
+msgid "6. Como voce foi treinado em EUS? (assinale todas as aplicaveis):"
+msgstr "6. Como você foi treinado em EUS? (assinale todas as aplicáveis):"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:791
+msgid " Autodidata"
+msgstr "Autodidata"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:796
+msgid " Observando pessoalmente endossonografistas experientes"
+msgstr "Observando pessoalmente endossonografistas experientes"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:801
+msgid " Observando endossonografistas em cursos e congressos"
+msgstr "Observando endossonografistas em cursos e congressos"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:806
+msgid " Durante a minha formacao em gastroenterologia ou cirurgia ou endoscopia gastrointestinal"
+msgstr "Durante a minha formação em gastroenterologia ou cirurgia ou endoscopia gastrointestinal"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:811
+msgid " Estagio formal hands-on em EUS (<3 meses) apos a minha formacao em gastroenterologia ou cirurgia ou endoscopia gastrointestinal "
+msgstr "Estágio formal hands-on em EUS (<3 meses) após a minha formação em gastroenterologia ou cirurgia ou endoscopia gastrointestinal"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:816
+msgid " Estagio formal hands-on em EUS (3-6 meses) apos a minha formacao em gastroenterologia ou cirurgia ou endoscopia gastrointestinal "
+msgstr "Estágio formal hands-on em EUS (3-6 meses) após a minha formação em gastroenterologia ou cirurgia ou endoscopia gastrointestinal"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:821
+msgid " Estagio formal hands-on em EUS (>6 meses) apos a minha formacao em gastroenterologia ou cirurgia ou endoscopia gastrointestinal  "
+msgstr "Estágio formal hands-on em EUS (>6 meses) após a minha formação em gastroenterologia ou cirurgia ou endoscopia gastrointestinal"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:868
+msgid "7. Onde voce foi treinado em EUS?"
+msgstr "7. Onde você foi treinado em EUS?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:933
+msgid "8. Aproximadamente quantas EUS \"hands-on\" voce realizou sob a supervisao de outro endossonografista durante o seu treinamento?"
+msgstr "8. Aproximadamente quantas EUS  \"hands-on\"  você realizou sob a supervisão de outro endossonografista durante o seu treinamento?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:935
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:749
+msgid "A. Anorretal"
+msgstr "A. Anorretal"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:948
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:991
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1074
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1117
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1200
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1243
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1328
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1371
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1457
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1500
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1591
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1639
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1736
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1789
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:762
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:805
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:890
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:933
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1018
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1061
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1146
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1189
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1275
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1318
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1409
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1457
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1554
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1607
+msgid "nenhuma"
+msgstr "nenhuma"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:953
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:991
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1079
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1117
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1205
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1243
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1333
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1371
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1462
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1500
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1596
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1639
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:767
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:805
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:895
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:933
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1023
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1061
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1151
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1189
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1280
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1318
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1414
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1457
+msgid "<= 5"
+msgstr "<= 5"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:958
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:991
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1084
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1117
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1210
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1243
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1338
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1371
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1467
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1500
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1601
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1639
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:772
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:805
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:900
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:933
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1028
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1061
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1156
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1189
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1285
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1318
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1419
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1457
+msgid "6-10"
+msgstr "6-10"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:963
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:991
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1089
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1117
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1215
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1243
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1343
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1371
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1472
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1500
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1606
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1639
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:777
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:805
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:905
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:933
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1033
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1061
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1161
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1189
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1290
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1318
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1424
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1457
+msgid "11-20"
+msgstr "11-20"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:968
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:991
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1094
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1117
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1220
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1243
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1348
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1371
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1477
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1500
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1611
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1639
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:782
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:805
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:910
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:933
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1038
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1061
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1166
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1189
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1295
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1318
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1429
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1457
+msgid "21-50"
+msgstr "21-50"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:973
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:991
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1099
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1117
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1225
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1243
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1353
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1371
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1482
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1500
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:787
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:805
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:915
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:933
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1043
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1061
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1171
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1189
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1300
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1318
+msgid ">50"
+msgstr ">50"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1061
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:877
+msgid "B. Esofago"
+msgstr "B. Esôfago"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1187
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1005
+msgid "C. Gastroduodenal "
+msgstr "C. Gastroduodenal"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1315
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1133
+msgid "D. Mediastino "
+msgstr "D. Mediastino"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1444
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1262
+msgid "E. Pancreato-biliar-ampular  "
+msgstr "E. Pancreato-biliar-ampular"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1578
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1396
+msgid "F. Puncao ecoguiada (FNA) - alta e baixa  "
+msgstr "F. Punção ecoguiada (FNA) - alta e baixa"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1616
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1639
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1434
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1457
+msgid "51-100"
+msgstr "51-100"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1621
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1639
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1439
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1457
+msgid ">100"
+msgstr ">100"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1723
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1541
+msgid "G. Terapeutica - alta e baixa ( neurolise/bloqueio do plexo celiaco, drenagens, etc ...)"
+msgstr "G. Terapêutica - alta e baixa ( neurólise/bloqueio do plexo celíaco, drenagens, etc ...)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1741
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1789
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1559
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1607
+msgid "01"
+msgstr "01"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1746
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1789
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1564
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1607
+msgid "02"
+msgstr "02"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1751
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1789
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1569
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1607
+msgid "03"
+msgstr "03"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1756
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1789
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1574
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1607
+msgid "04-08"
+msgstr "04-08"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1761
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1789
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1579
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1607
+msgid "09-15"
+msgstr "09-15"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1766
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1789
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1584
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1607
+msgid "16-25"
+msgstr "16-25"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1771
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers.php:1789
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1589
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1607
+msgid ">25"
+msgstr ">25"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:112
+msgid "9. Ha quantos anos voce  ja realiza EUS sem a supervisao de outro endossonografista?"
+msgstr "9. Há quantos anos você  já realiza EUS sem a supervisão de outro endossonografista?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:208
+msgid "10. Quantas EUS voce  ja realizou sem a supervisao de outro endossonografista?"
+msgstr "10. Quantas EUS você  já realizou sem a supervisão de outro endossonografista?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:222
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:265
+msgid " <= 100"
+msgstr "<= 100"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:227
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:265
+msgid " 101-250"
+msgstr "101-250"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:232
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:265
+msgid " 251-500"
+msgstr "251-500"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:237
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:265
+msgid " 501-1000"
+msgstr "501-1000"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:242
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:265
+msgid " 1001-5000"
+msgstr "1001-5000"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:247
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:265
+msgid " > 5000"
+msgstr "> 5000"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:391
+msgid "11. Quantas EUS com FNA e terapeuticas voce ja realizou durante a sua carreira sem a supervisao de outro endossonografista?"
+msgstr "11. Quantas EUS com FNA e terapêuticas você já realizou durante a sua carreira sem a supervisão de outro endossonografista?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:529
+msgid "12. Quantas EUS voce realizou em 2011?"
+msgstr "12. Quantas EUS você realizou em 2011?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:665
+msgid "13. Quantas FNA voce realizou em 2011?"
+msgstr "13. Quantas FNA você realizou em 2011?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:796
+msgid "14. Quantas complicacoes ocorreram em suas EUS apos seu periodo de treinamento ?"
+msgstr "14. Quantas complicações ocorreram em suas EUS após seu período de treinamento ?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:943
+msgid "15. Qual(is) equipamento(s) voce usa? (assinale todas as aplicaveis)"
+msgstr "15. Qual(is) equipamento(s) você usa? (assinale todas as aplicáveis)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:1095
+msgid "16. Qual(is) agulha(s) voce mais utiliza? (em ordem de frequencia, assinalar todos os campos que se aplicam)"
+msgstr "16. Qual(is) agulha(s) você mais utiliza? (em ordem de frequência, assinalar todos os campos que se aplicam)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:1267
+msgid "17. Classifique a frequencia das indicacoes para suas EUS segundo os segmentos anatomicos (1 = mais frequente / 5= menos  frequente /  N= nunca tive)"
+msgstr "17. Classifique a frequência das indicações para suas EUS segundo os segmentos anatômicos (1 = mais frequente / 5= menos  frequente /  N= nunca tive)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:1399
+msgid "18. Classifique a frequencia de indicacoes para suas EUS em cada segmento anatomico especifico:"
+msgstr "18. Classifique a frequência de indicações para suas EUS em cada segmento anatômico específico:"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:1401
+msgid "a) Anorretal (1 = mais frequente / 6 = menos frequente / N= nunca tive):"
+msgstr "a) Anorretal (1 = mais frequente / 6 = menos frequente / N= nunca tive):"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:1535
+msgid "b) Esofago (1 = mais frequente / 4 = menos frequente / N= nunca tive):"
+msgstr "b) Esôfago (1 = mais frequente / 4 = menos frequente / N= nunca tive):"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:1669
+msgid "c) Gastroduodenal (1 = mais frequente / 5 = menos frequente / N= nunca tive):"
+msgstr "c) Gastroduodenal (1 = mais frequente / 5 = menos frequente / N= nunca tive):"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:1801
+msgid "d) Mediastino (1 = mais frequente / 4= menos frequente / N= nunca tive):"
+msgstr "d) Mediastino (1 = mais frequente / 4= menos frequente / N= nunca tive):"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_2.php:1937
+msgid "e) Pancreato-biliar-ampular (1 = mais frequente / 7=  menos frequente / N= nunca tive):"
+msgstr "e) Pancreato-biliar-ampular (1 = mais frequente / 7=  menos frequente / N= nunca tive):"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:40
+msgid "19. Voce verifica os resultados (bioquimicos, culturas, citologicos e/ou histologicos) apos suas FNA?"
+msgstr "19. Você verifica os resultados (bioquímicos, culturas, citológicos e/ou histológicos) após suas FNA?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:197
+msgid "20. Qual e o seu percentual total de positividade de diagnostico (bioquimicos, culturas, citologicos e/ou histologicos) obtido por FNA?"
+msgstr "20. Qual é o seu percentual total de positividade de diagnóstico (bioquímicos, culturas, citológicos e/ou histológicos) obtido por FNA?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:281
+msgid "21. Quem  e o responsavel pela sedacao do paciente  durante suas EUS?(assinale todas as aplicaveis)"
+msgstr "21. Quem  é o responsável pela sedação do paciente  durante suas EUS? (assinale todas as aplicáveis)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:295
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:528
+msgid " Uma enfermeira com formacao especifica em anestesia"
+msgstr "Uma enfermeira com formação específica em anestesia"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:300
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:533
+msgid " Um anestesista"
+msgstr "Um anestesista"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:305
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:538
+msgid " Um medico nao-anestesista (que nao esta realizando a EUS)"
+msgstr "Um médico não-anestesista (que não está realizando a EUS)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:310
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:543
+msgid " Voce mesmo"
+msgstr "Você mesmo"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:315
+msgid " Outros"
+msgstr "Outros"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:398
+msgid "22. Voce indica sedacao com propofol para suas EUS? (assinale todas as aplicaveis)"
+msgstr "22. Você indica sedação com propofol para suas EUS? (assinale todas as aplicáveis)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:412
+msgid " Na maioria ou todos os meus exames "
+msgstr "Na maioria ou todos os meus exames"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:417
+msgid " Somente quando o paciente apresenta condicoes de dificil sedacao com outras drogas"
+msgstr "Somente quando o paciente apresenta condições de difícil sedação com outras drogas"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:422
+msgid " Somente em procedimentos terapeuticos"
+msgstr "Somente em procedimentos terapêuticos"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:427
+msgid " Nao utilizo propofol (se voce nao utiliza propofol, pule a proxima questao)"
+msgstr "Não utilizo propofol (se você não utiliza propofol, pule a próxima questão)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:432
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:548
+msgid " Outros "
+msgstr "Outros"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:514
+msgid "23. Quem e o responsavel pela sedacao \"com propofol\" durantes suas EUS? (assinale todas as aplicaveis)"
+msgstr "23. Quem é o responsável pela sedação\"com propofol\" durantes suas EUS? (assinale todas as aplicáveis)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:626
+msgid "24. Atualmente, voce treina outros medicos em EUS?"
+msgstr "24. Atualmente, você treina outros médicos em EUS?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:746
+msgid "25. Na sua opiniao, atualmente, qual e a experiencia minima que deve ser aplicada em estagios \"hands-on\" em EUS?"
+msgstr "25. Na sua opinião, atualmente, qual é a experiência mínima que deve ser aplicada em estágios \"hands-on\"  em EUS?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1675
+msgid "26. Na sua opiniao, atualmente,  qual e o tempo minimo de um estagio para a formacao do medico em EUS"
+msgstr "26 Na sua opinião, atualmente,  qual é o tempo mínimo de um estágio para a formação do médico em EUS?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1689
+msgid " <= 3 meses "
+msgstr "<= 3 meses"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1694
+msgid " 3-6 meses "
+msgstr "3-6 meses"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1699
+msgid " 6-9 meses "
+msgstr "6-9 meses"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1704
+msgid "> 9 meses"
+msgstr "> 9 meses"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1709
+msgid "O tempo nao e relevante, pois o importante do treinamento e o numero de procedimentos."
+msgstr "O tempo não é relevante, pois o importante do treinamento é o número de procedimentos."
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1787
+msgid "27. Qual sua opiniao em relacao a formacao medica em EUS? (assinale todas as aplicaveis)"
+msgstr "27. Qual sua opinião em relação à formação médica em EUS? (assinale todas as aplicáveis)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1789
+msgid "O treinamento formal reduz o tempo para adquirir competencia"
+msgstr "O treinamento formal reduz o tempo para adquirir competência "
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1888
+msgid "O treinamento formal e necessario para adquirir competencia "
+msgstr "O treinamento formal é necessário para adquirir competência"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:1987
+msgid "O treinamento formal e necessario para satisfazer fins legais"
+msgstr "O treinamento formal é necessário para satisfazer fins legais"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2087
+msgid "Estrategias de formacao devem depender das leis locais"
+msgstr "Estratégias de formação devem depender das leis locais"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2189
+msgid "Estrategias de formacao devem depender da sociedade de endoscopia"
+msgstr "Estratégias de formação devem depender da sociedade de endoscopia"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2282
+msgid "Outros"
+msgstr "Outros"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2463
+msgid "28. Qual percentagem aproximada que suas EUS sao reembolsadas pelas seguradoras?"
+msgstr "28. Qual percentagem aproximada que suas EUS são reembolsadas pelas seguradoras?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2648
+msgid "29. Qual percentagem aproximada de seus procedimentos ecoendoscopicos sao reembolsados por programas de saude governamentais ou filantropicos?"
+msgstr "29. Qual percentagem aproximada de seus procedimentos ecoendoscópicos são reembolsados por programas de saúde governamentais ou filantrópicos?"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2797
+msgid "30. Qual e o custo medio aproximado da EUS (particular) em seu pais? (em dolar- taxa de cambio oficial) "
+msgstr "30. Qual é o custo médio aproximado da EUS (particular) em seu país? (em dolar- taxa de câmbio oficial) "
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:2942
+msgid "31. Qual e o custo medio aproximado da EUS (particular) com FNA  em seu pais? (em dolar- taxa de cambio oficial) "
+msgstr "31. Qual é o custo médio aproximado da EUS (particular) com FNA  em seu país? (em dólar- taxa de câmbio oficial)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:3094
+msgid "32. Qual e o custo medio aproximado de venda de uma agulha de EUS em seu pais? (em dolar- taxa de cambio oficial) "
+msgstr "32. Qual é o custo médio aproximado de venda de uma agulha de EUS em seu país? (em dólar- taxa de câmbio oficial)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:3256
+msgid "33. Qual e o honorario medio aproximado, destinado ao medico, para a realizacao de uma EUS sem puncao em seu pais? (em dolar- taxa de cambio oficial) "
+msgstr "33. Qual é o honorário médio aproximado, destinado ao médico, para a realização de uma EUS sem punção em seu país? (em dólar- taxa de câmbio oficial)"
+
+#: C:/xampp/htdocs/questionario/control_panel/reports_survey_answers_3.php:3404
+msgid "34. Qual e o honorario medio aproximado, destinado ao medico, para a realizacao de uma EUS com FNA em seu pais? (em dolar- taxa de cambio oficial) "
+msgstr "34. Qual é o honorário médio aproximado, destinado ao médico, para a realização de uma EUS com FNA em seu país? (em dólar- taxa de câmbio oficial)"
+
+#: C:/xampp/htdocs/questionario/control_panel/settings.php:18
+msgid "Configurações"
+msgstr "Configurações"
+
+#: C:/xampp/htdocs/questionario/control_panel/settings.php:23
+msgid "Descricao"
+msgstr "Descrição"
+
+#: C:/xampp/htdocs/questionario/control_panel/settings.php:24
+msgid "Valor"
+msgstr "Valor"
+
+#: C:/xampp/htdocs/questionario/control_panel/settings.php:68
+msgid "Configuracoes nao alteradas com sucesso."
+msgstr "Configurações não alteradas com sucesso."
+
+#: C:/xampp/htdocs/questionario/control_panel/settings.php:77
+msgid "Alterado com sucesso"
+msgstr "Alterado com sucesso"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_change_status.php:30
+msgid "Status n&atilde;o alterado. Tente novamente, por favor."
+msgstr "Status n&atilde;o alterado. Tente novamente, por favor."
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_change_status.php:39
+msgid "Status alterado."
+msgstr "Status alterado."
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_change_status.php:50
+#: C:/xampp/htdocs/questionario/control_panel/users_activate.php:95
+#: C:/xampp/htdocs/questionario/control_panel/users_approve.php:96
+#: C:/xampp/htdocs/questionario/control_panel/users_change_credential.php:51
+#: C:/xampp/htdocs/questionario/control_panel/users_deny.php:95
+msgid "Operacao cancelada."
+msgstr "Operação cancelada."
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_change_status.php:83
+msgid "Status do Question&aacute;rio do Usu&aacute;rio"
+msgstr "Status do Question&aacute;rio do Usu&aacute;rio"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_change_status.php:98
+#: C:/xampp/htdocs/questionario/control_panel/surveys_edit_user.php:40
+#: C:/xampp/htdocs/questionario/control_panel/users_activate.php:22
+#: C:/xampp/htdocs/questionario/control_panel/users_approve.php:22
+#: C:/xampp/htdocs/questionario/control_panel/users_change_credential.php:79
+#: C:/xampp/htdocs/questionario/control_panel/users_deny.php:26
+msgid "Sobrenome"
+msgstr "Sobrenome"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_change_status.php:102
+#: C:/xampp/htdocs/questionario/control_panel/surveys_edit_user.php:44
+#: C:/xampp/htdocs/questionario/control_panel/users_activate.php:26
+#: C:/xampp/htdocs/questionario/control_panel/users_approve.php:26
+#: C:/xampp/htdocs/questionario/control_panel/users_change_credential.php:83
+#: C:/xampp/htdocs/questionario/control_panel/users_deny.php:30
+msgid "Usuario"
+msgstr "Usuário"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_change_status.php:110
+msgid "Status do Question&aacute;rio"
+msgstr "Status do Question&aacute;rio"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_change_status.php:138
+msgid "Deseja modificar o status do questionário desse usuario?"
+msgstr "Deseja modificar o status do questionário desse usuario?"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_change_status.php:140
+msgid "Mudar Status"
+msgstr "Mudar Status"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_edit_user.php:23
+msgid "Para mudar o status desse questionário, clique aqui"
+msgstr "Para mudar o status desse questionário, clique aqui"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_edit_user.php:31
+msgid "Informa&ccedil;&otilde;es do usu&aacute;rio consultado"
+msgstr "Informa&ccedil;&otilde;es do usu&aacute;rio consultado"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_edit_user.php:52
+msgid "Status do Questionario"
+msgstr "Status do Questionário"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_edit_user.php:61
+msgid "Editar Questionário"
+msgstr "Editar Questionário"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_edit_user.php:61
+msgid "Visualizar apenas"
+msgstr "Visualizar apenas"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_edit_user.php:72
+msgid "Aten&ccedil;&atilde;o: voc&ecirc; pode editar o question&aacute;rio"
+msgstr "Aten&ccedil;&atilde;o: voc&ecirc; pode editar o question&aacute;rio"
+
+#: C:/xampp/htdocs/questionario/control_panel/surveys_edit_user.php:77
+msgid "Voc&ecirc; est&aacute; apenas visualizando o question&aacute;rio"
+msgstr "Voc&ecirc; est&aacute; apenas visualizando o question&aacute;rio"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_access_log.php:2
+msgid "Log de acesso do usu&aacute;rio"
+msgstr "Log de acesso do usu&aacute;rio"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_access_log.php:18
+msgid "Endereco Acessado"
+msgstr "Endereço Acessado"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_access_log.php:42
+msgid "Usuario nunca acessou o sistema"
+msgstr "Usuário nunca acessou o sistema"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_activate.php:12
+msgid "Ativar usuário"
+msgstr "Ativar usuário"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_activate.php:36
+msgid "Deseja ativar esse usuario?"
+msgstr "Deseja ativar esse usuario?"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_activate.php:75
+msgid "Usuario nao ativado. Tente novamente."
+msgstr "Usuario nao ativado. Tente novamente."
+
+#: C:/xampp/htdocs/questionario/control_panel/users_activate.php:84
+msgid "Usuario ativado"
+msgstr "Usuário ativado"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_approve.php:12
+msgid "Aprovar usuário"
+msgstr "Aprovar Usuário"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_approve.php:36
+msgid "Deseja aprovar esse usuario?"
+msgstr "Deseja aprovar esse usuário?"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_approve.php:76
+msgid "Usuario nao aprovado. Tente novamente."
+msgstr "Usuário não aprovado. Tente novamente."
+
+#: C:/xampp/htdocs/questionario/control_panel/users_approve.php:85
+msgid "Usuario aprovado"
+msgstr "Usuário aprovado"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_change_credential.php:32
+msgid "Credencial não alterada. Tente novamente."
+msgstr "Credencial não alterada. Tente novamente."
+
+#: C:/xampp/htdocs/questionario/control_panel/users_change_credential.php:41
+msgid "Credencial alterada"
+msgstr "Credencial alterada"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_change_credential.php:64
+msgid "Mudar n&iacute;vel de acesso do usu&aacute;rio"
+msgstr "Mudar n&iacute;vel de acesso do usu&aacute;rio"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_change_credential.php:91
+msgid "Credencial"
+msgstr "Credencial"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_change_credential.php:122
+msgid "Deseja mudar a credencial desse usuário?"
+msgstr "Deseja mudar a credencial desse usuário?"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_deny.php:11
+msgid "Bloquear usu&aacute;rio"
+msgstr "Bloquear Usuário"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_deny.php:40
+msgid "Deseja negar acesso a esse usuario?"
+msgstr "Deseja negar acesso a esse usuário?"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_deny.php:76
+msgid "Usuario nao negado. Tente novamente."
+msgstr "Usuario não negado. Tente novamente."
+
+#: C:/xampp/htdocs/questionario/control_panel/users_deny.php:85
+msgid "Usuario negado"
+msgstr "Usuário negado"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:36
+msgid "opções..."
+msgstr "opções..."
+
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:37
+msgid "Ver Dados do Usu&aacute;rio"
+msgstr "Ver Dados do Usu&aacute;rio"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:43
+msgid "Ativar Usuario"
+msgstr "Ativar Usuario"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:48
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:58
+msgid "Aprovar Usuario"
+msgstr "Aprovar Usuário"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:49
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:54
+msgid "Bloquear Usuario"
+msgstr "Bloquear Usuário"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:62
+msgid "Mudar Nivel de Usuario"
+msgstr "Mudar Nível de Acesso do Usuário"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:63
+msgid "Ver Log de Acesso"
+msgstr "Ver Log de Acesso"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:66
+msgid "Ver Respostas do Questionario"
+msgstr "Ver Respostas do Questionario"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_list.php:70
+msgid "Mudar Status do Questionario"
+msgstr "Mudar Status do Questionario"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_options.php:2
+msgid "Usuários"
+msgstr "Usuários"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_options.php:20
+msgid "Enviar Lembrete"
+msgstr "Enviar Lembrete"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:4
+msgid "Selecione um usuário"
+msgstr "Selecione um usuário"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:15
+msgid "Envio de lembrete por e-mail"
+msgstr "Envio de lembrete por e-mail"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:78
+msgid "Deseja realmente enviar um lembrete por e-mail para esses destinatarios?"
+msgstr "Deseja realmente enviar um lembrete por e-mail para esses destinatarios?"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:117
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:145
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:171
+msgid "Esta é uma mensagem automática do sistema."
+msgstr "Esta é uma mensagem automática do sistema."
+
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:132
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:160
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:186
+msgid ")."
+msgstr ")."
+
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:247
+msgid "Falha no envio para os e-mails:||"
+msgstr "Falha no envio para os e-mails:||"
+
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:247
+msgid ".||||Tente novamente."
+msgstr ".||||Tente novamente."
+
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:261
+msgid "Operacao realizada com sucesso, e-mails enviados."
+msgstr "Operação realizada com sucesso,  e-mails enviados."
+
+#: C:/xampp/htdocs/questionario/control_panel/users_send_reminder.php:275
+msgid "Envio de lembrete cancelado com sucesso."
+msgstr "Envio de lembrete cancelado com sucesso."
+
+#: C:/xampp/htdocs/questionario/includes/TRecipients.php:106
+#: C:/xampp/htdocs/questionario/includes/TUsers.php:165
+msgid "Opções"
+msgstr "Opções"
+
+#: C:/xampp/htdocs/questionario/includes/TRecipients.php:107
+msgid "Marcar"
+msgstr "Marcar"
+
+#: C:/xampp/htdocs/questionario/includes/TUsers.php:164
+msgid "Status Questionário"
+msgstr "Status do Questionário"
+
+#: C:/xampp/htdocs/questionario/survey/survey_breadcrumb.php:1
+msgid "Pesquisa sobre a pratica da Ecoendoscopia (EUS) na America Latina"
+msgstr "Pesquisa sobre a prática da Ecoendoscopia (EUS) na América Latina"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:54
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:68
+msgid "Preencha pelo menos uma instituição e uma cidade/País onde voc&ecirc; pratica EUS"
+msgstr "Preencha pelo menos uma instituição e uma cidade/País onde voc&ecirc; pratica EUS"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:104
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:406
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:544
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:353
+msgid "Informacoes nao foram salvas com sucesso"
+msgstr "Informações não foram salvas com sucesso"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:111
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:417
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:555
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:364
+msgid "Informacoes salvas com sucesso"
+msgstr "Informações salvas com sucesso"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:202
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:651
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:800
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:547
+msgid "Página"
+msgstr "Página"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:205
+msgid "Instituicao (oes) onde voce pratica EUS:"
+msgstr "Instituição (ões) onde você pratica EUS:"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:209
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:892
+msgid "Instituicao 1: "
+msgstr "Instituição 1:"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:213
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:220
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:228
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:896
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:903
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:911
+msgid "Cidade/Pais: "
+msgstr "Cidade/País:"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:217
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:900
+msgid "Instituicao 2: "
+msgstr "Instituição 2:"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:224
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:907
+msgid "Instituicao 3: "
+msgstr "Instituição 3:"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:243
+msgid "\"Note que voce podera salvar sua pesquisa a qualquer momento, durante as suas respostas, e retornar em um segundo momento para termina-la\"."
+msgstr "\"Note que você poderá salvar sua pesquisa a qualquer momento, durante as suas respostas, e retornar em um segundo momento para terminá-la\"."
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:249
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1649
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1966
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1404
+msgid "Salvar e Sair"
+msgstr "Salvar e Sair"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:250
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1650
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1967
+msgid "Salvar e Continuar"
+msgstr "Salvar e Continuar"
+
+#: C:/xampp/htdocs/questionario/survey/survey_introduction.php:256
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1656
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1973
+msgid "Visualizar Pr&oacute;xima P&aacute;gina"
+msgstr "Visualizar Pr&oacute;xima P&aacute;gina"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:31
+msgid "Questão 1 não preenchida"
+msgstr "Questão 1 não preenchida"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:41
+msgid "Questão 2 não preenchida"
+msgstr "Questão 2 não preenchida"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:52
+msgid "Selecione um item da questão 3"
+msgstr "Selecione um item da questão 3"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:66
+msgid "Selecione pelo menos um item da questão 3"
+msgstr "Selecione pelo menos um item da questão 3"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:80
+msgid "Questão 4 não preenchida"
+msgstr "Questão 4 não preenchida"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:101
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:115
+msgid "Selecione pelo menos um item da questão 5"
+msgstr "Selecione pelo menos um item da questão 5"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:140
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:152
+msgid "Selecione pelo menos um item da questão 6"
+msgstr "Selecione pelo menos um item da questão 6"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:186
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:195
+msgid "Preencha pelo menos uma instituição e uma cidade/País na questão 7"
+msgstr "Preencha pelo menos uma instituição e uma cidade/País na questão 7"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:218
+msgid "Selecione um item do sub-item A da questão 8"
+msgstr "Selecione um item do sub-item A da questão 8"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:219
+msgid "Selecione um item do sub-item B da questão 8"
+msgstr "Selecione um item do sub-item B da questão 8"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:220
+msgid "Selecione um item do sub-item C da questão 8"
+msgstr "Selecione um item do sub-item C da questão 8"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:221
+msgid "Selecione um item do sub-item D da questão 8"
+msgstr "Selecione um item do sub-item D da questão 8"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:222
+msgid "Selecione um item do sub-item E da questão 8"
+msgstr "Selecione um item do sub-item E da questão 8"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:223
+msgid "Selecione um item do sub-item F da questão 8"
+msgstr "Selecione um item do sub-item F da questão 8"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:224
+msgid "Selecione um item do sub-item G da questão 8"
+msgstr "Selecione um item do sub-item G da questão 8"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:244
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:270
+msgid "Preencha a questão 9"
+msgstr "Preencha a questão 9"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:253
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:263
+msgid "Preencha a questão 9 com um valor numérico de 0 a 60."
+msgstr "Preencha a questão 9 com um valor numérico de 0 a 60."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:284
+msgid "Questão 10 não preenchida"
+msgstr "Questão 10 não preenchida"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:317
+msgid "Preencha todos os campos da questão 11 com valores numéricos."
+msgstr "Preencha todos os campos da questão 11 com valores numéricos."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:326
+msgid "Preencha todos os campos da questão 11 com valores numéricos"
+msgstr "Preencha todos os campos da questão 11 com valores numéricos"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:364
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:371
+msgid "Preencha todos os campos da questão 12 com valores numéricos"
+msgstr "Preencha todos os campos da questão 12 com valores numéricos"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:672
+msgid " Masculino"
+msgstr "Masculino"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:674
+msgid " Feminino"
+msgstr "Feminino"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:732
+msgid "<= 32"
+msgstr "<= 32"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:734
+msgid "33-42"
+msgstr "33-42"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:736
+msgid "43-52"
+msgstr "43-52"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:738
+msgid "53-62"
+msgstr "53-62"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:740
+msgid "> 62"
+msgstr "> 62"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:824
+msgid "HOSPITAL"
+msgstr "HOSPITAL"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:825
+msgid "AMBIENTE NAO HOSPITALAR"
+msgstr "AMBIENTE NÃO HOSPITALAR"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:830
+msgid "Medico funcionario de uma instituicao do governo"
+msgstr "Médico funcionário de uma instituição do governo"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:835
+msgid "Medico funcionario de uma instituicao privada"
+msgstr "Médico funcionário de uma instituição privada"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:840
+msgid "Pratica independente"
+msgstr "Prática independente"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1602
+msgid " FNA "
+msgstr "FNA"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1606
+msgid " Neurolise/ bloqueio celiaco  "
+msgstr "Neurólise/ bloqueio celíaco"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1610
+msgid " Drenagem de pseudocisto "
+msgstr "Drenagem de pseudocisto"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1614
+msgid " Drenagem de abscessos "
+msgstr "Drenagem de abscessos"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1618
+msgid " Drenagem biliar "
+msgstr "Drenagem biliar"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1622
+msgid " Drenagem pancreatica "
+msgstr "Drenagem pancreática"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1633
+msgid " A. EUS alta "
+msgstr "A. EUS alta"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page1.php:1637
+msgid " B. EUS baixa "
+msgstr "B. EUS baixa"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:52
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:59
+msgid "Preencha todos os campos da questão 13 com valores numéricos"
+msgstr "Preencha todos os campos da questão 13 com valores numéricos"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:95
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:102
+msgid "Preencha todos os campos da questão 14 com valores numéricos"
+msgstr "Preencha todos os campos da questão 14 com valores numéricos"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:125
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:130
+msgid "Selecione pelo menos um item da questão 15"
+msgstr "Selecione pelo menos um item da questão 15"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:155
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:160
+msgid "A questão 16 não pode ser deixada em branco."
+msgstr "A questão 16 não pode ser deixada em branco."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:198
+msgid "Resposta inv&aacute;lida na questão 17, sobre Anorretal"
+msgstr "Resposta inv&aacute;lida na questão 17, sobre Anorretal"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:199
+msgid "Resposta inv&aacute;lida na questão 17, sobre Es&ocirc;fago"
+msgstr "Resposta inv&aacute;lida na questão 17, sobre Es&ocirc;fago"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:200
+msgid "Resposta inv&aacute;lida na questão 17, sobre Gastroduodenal"
+msgstr "Resposta inv&aacute;lida na questão 17, sobre Gastroduodenal"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:201
+msgid "Resposta inv&aacute;lida na questão 17, sobre Mediastino"
+msgstr "Resposta inv&aacute;lida na questão 17, sobre Mediastino"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:202
+msgid "Resposta inv&aacute;lida na questão 17, sobre Pancreato-biliar-ampular"
+msgstr "Resposta inv&aacute;lida na questão 17, sobre Pancreato-biliar-ampular"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:339
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:391
+msgid "Preencha os campos da questão 20 com valores numéricos de 0 a 100."
+msgstr "Preencha os campos da questão 20 com valores numéricos de 0 a 100."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:354
+msgid "Questão 19 não selecionada. A questão 20 depende da resposta dessa questão."
+msgstr "Questão 19 não selecionada. A questão 20 depende da resposta dessa questão."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:423
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:428
+msgid "Selecione pelo menos um item da questão 21"
+msgstr "Selecione pelo menos um item da questão 21"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:452
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:457
+msgid "Selecione pelo menos um item da questão 22"
+msgstr "Selecione pelo menos um item da questão 22"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:481
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:486
+msgid "Selecione pelo menos um item da questão 23"
+msgstr "Selecione pelo menos um item da questão 23"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:499
+msgid "Selecione um item da Questão 24"
+msgstr "Selecione um item da Questão 24"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:809
+msgid " A. Alta "
+msgstr "A. Alta"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:813
+msgid " B. Baixa "
+msgstr "B. Baixa "
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:822
+msgid " - sangramentos (que necessitaram de terapeutica ou internacao"
+msgstr "- sangramentos (que necessitaram de terapêutica ou internação)"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:826
+msgid " - infeccoes "
+msgstr "- infecções"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:830
+msgid " - perfuracoes "
+msgstr "- perfurações "
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:834
+msgid " - complicacoes relacionadas a sedacao "
+msgstr "- complicações relacionadas à sedação"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:838
+msgid " - outras "
+msgstr " - outras"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:881
+msgid "FUJINON"
+msgstr "FUJINON"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:882
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1067
+msgid "OLYMPUS"
+msgstr "OLYMPUS"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:883
+msgid "PENTAX"
+msgstr "PENTAX"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:888
+msgid "RADIAL MECANICO"
+msgstr "RADIAL MECANICO"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:894
+msgid "RADIAL ELETRONICO"
+msgstr "RADIAL ELETRONICO"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:900
+msgid "LINEAR"
+msgstr "LINEAR"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:906
+msgid "MINIPROBES"
+msgstr "MINIPROBES"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:916
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1098
+msgid "Outros "
+msgstr "Outros"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:997
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1147
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1268
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1387
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1497
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1611
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1720
+msgid "Arraste para o quadro da esquerda os itens desejados, ordenando-os conforme sua preferência (mais acima = mais frequente). Deixe no quadro da direita os itens que não se aplicam."
+msgstr "Arraste para o quadro da esquerda os itens desejados, ordenando-os conforme sua preferência (mais acima = mais frequente). Deixe no quadro da direita os itens que não se aplicam."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1064
+msgid "BOSTON"
+msgstr "BOSTON"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1065
+msgid "COOK"
+msgstr "COOK"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1066
+msgid "MEDI-GLOBE"
+msgstr "MEDI-GLOBE"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1072
+msgid "19"
+msgstr "19"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1079
+msgid "22"
+msgstr "22"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1086
+msgid "25"
+msgstr "25"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1151
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1202
+msgid " Anorretal "
+msgstr "Anorretal"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1152
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1206
+msgid " Esofago "
+msgstr "Esôfago"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1153
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1210
+msgid " Gastroduodenal "
+msgstr "Gastroduodenal"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1154
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1214
+msgid " Mediastino "
+msgstr "Mediastino"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1155
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1218
+msgid " Pancreato-biliar-ampular "
+msgstr "Pancreato-biliar-ampular"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1272
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1317
+msgid " Cancer retal "
+msgstr " Câncer retal "
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1273
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1321
+msgid " Incontinencia fecal e / ou fistulas "
+msgstr "Incontinência fecal e / ou fístulas"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1274
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1325
+msgid " Cancer anal "
+msgstr "Câncer anal"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1275
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1329
+msgid " Endometriose "
+msgstr "Endometriose"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1276
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1333
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1504
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1559
+msgid " Lesoes subepiteliais "
+msgstr "Lesões subepiteliais"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1391
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1436
+msgid " Barrett"
+msgstr "Barrett"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1392
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1440
+msgid " Cancer"
+msgstr "Câncer"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1393
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1444
+msgid " Lesoes subepiteliais"
+msgstr "Lesões subepiteliais"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1501
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1547
+msgid " Adenocarcinoma"
+msgstr "Adenocarcinoma"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1502
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1551
+msgid " Linfoma"
+msgstr "Linfoma"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1503
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1555
+msgid " Tumor ou Linfonodos (perigastricos ou periduodenais) "
+msgstr "Tumor ou Linfonodos (perigástricos ou periduodenais)"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1615
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1660
+msgid "Linfonodos (exceto o estadiamento de cancer de pulmao)"
+msgstr "Linfonodos (exceto o estadiamento de câncer de pulmão)"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1616
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1664
+msgid " Tumor mediastinal"
+msgstr "Tumor mediastinal"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1617
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1668
+msgid " Estadiamento de cancer de pulmao "
+msgstr "Estadiamento de câncer de pulmão"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1724
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1772
+msgid "Pancreatite aguda / cronica"
+msgstr "Pancreatite aguda / crônica"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1725
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1776
+msgid " Tumor/cancer ampular "
+msgstr "Tumor/câncer ampular "
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1726
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1780
+msgid " Pseudocisto de pancreas"
+msgstr "Pseudocisto de pâncreas"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1727
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1784
+msgid " Tumores cisticos do pancreas "
+msgstr "Tumores cisticos do pâncreas"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1728
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1788
+msgid " Microlitiase ou coledocolitiase "
+msgstr "Microlitíase ou coledocolitíase"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1729
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1792
+msgid " Tumor/ cancer pancreatico"
+msgstr "Tumor/ câncer pancreático"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1819
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1954
+msgid " SIM"
+msgstr "SIM"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1821
+msgid " NAO - Se a sua resposta foi nao, nao responda a proxima questao"
+msgstr "NÃO – Se a sua resposta foi não, não responda a próxima questão"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1831
+msgid " Em lesoes solidas "
+msgstr "Em lesões sólidas"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1835
+msgid " Em lesoes cisticas "
+msgstr "Em lesões císticas"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page2.php:1956
+msgid " NAO"
+msgstr "NÃO"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:74
+msgid "Selecione um item do sub-item A da questão 25"
+msgstr "Selecione um item do sub-item A da questão 25"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:75
+msgid "Selecione um item do sub-item B da questão 25"
+msgstr "Selecione um item do sub-item B da questão 25"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:76
+msgid "Selecione um item do sub-item C da questão 25"
+msgstr "Selecione um item do sub-item C da questão 25"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:77
+msgid "Selecione um item do sub-item D da questão 25"
+msgstr "Selecione um item do sub-item D da questão 25"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:78
+msgid "Selecione um item do sub-item E da questão 25"
+msgstr "Selecione um item do sub-item E da questão 25"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:79
+msgid "Selecione um item do sub-item F da questão 25"
+msgstr "Selecione um item do sub-item F da questão 25"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:80
+msgid "Selecione um item do sub-item G da questão 25"
+msgstr "Selecione um item do sub-item G da questão 25"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:97
+msgid "Questão 26 não selecionada"
+msgstr "Questão 26 não selecionada"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:124
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:130
+msgid "Preencha todos os campos da questão 27"
+msgstr "Preencha todos os campos da questão 27"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:158
+msgid "Preencha a questão 28 com valores numéricos."
+msgstr "Preencha a questão 28 com valores numéricos."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:194
+msgid "Preencha a questão 29 com valores numéricos"
+msgstr "Preencha a questão 29 com valores numéricos"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:215
+msgid "Preencha a questão 30 com valores do tipo 999.99 - ponto como separador decimal."
+msgstr "Preencha a questão 30 com valores do tipo 999.99 - ponto como separador decimal."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:238
+msgid "Preencha a questão 31 com valores do tipo 999.99 - ponto como separador decimal."
+msgstr "Preencha a questão 31 com valores do tipo 999.99 - ponto como separador decimal."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:260
+msgid "Preencha a questão 32 com valores do tipo 999.99 - ponto como separador decimal."
+msgstr "Preencha a questão 32 com valores do tipo 999.99 - ponto como separador decimal."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:282
+msgid "Preencha a questão 33 com valores do tipo 999.99 - ponto como separador decimal."
+msgstr "Preencha a questão 33 com valores do tipo 999.99 - ponto como separador decimal."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:304
+msgid "Preencha a questão 34 com valores do tipo 999.99 - ponto como separador decimal."
+msgstr "Preencha a questão 34 com valores do tipo 999.99 - ponto como separador decimal."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1222
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1243
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1265
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1286
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1307
+msgid "Sim"
+msgstr "Sim"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1223
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1244
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1266
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1287
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1308
+msgid "Nao"
+msgstr "Não"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1317
+msgid "\"As perguntas a seguir nao sao de preenchimento obrigatorio. Sao questoes que consideramos importantes, contudo, se voce nao se sentir confortavel em responder (uma ou mais destas) voce pode finalizar sua pesquisa neste momento\". "
+msgstr "\"As perguntas a seguir não são de preenchimento obrigatório. São questões que consideramos importantes, contudo, se você não se sentir confortável em responder (uma ou mais destas) você pode finalizar sua pesquisa neste momento\". "
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1334
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1359
+msgid "Procedimentos diagnosticos: "
+msgstr "Procedimentos diagnósticos:"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1336
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1341
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1361
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1366
+msgid "Nao sei"
+msgstr "Não sei "
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1339
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1364
+msgid "Procedimentos com FNA:  "
+msgstr "Procedimentos com FNA:"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1405
+msgid "Salvar e Finalizar"
+msgstr "Salvar e Finalizar"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page3.php:1411
+msgid "Visualizar &Uacute;ltima P&aacute;gina"
+msgstr "Visualizar &Uacute;ltima P&aacute;gina"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:32
+msgid "Question&aacute;rio finalizado com sucesso!"
+msgstr "Question&aacute;rio finalizado com sucesso!"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:34
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:63
+msgid "Nos apreciamos o seu tempo."
+msgstr "Nós apreciamos o seu tempo."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:36
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:65
+msgid "Solicitamos seu apoio incentivando os seus colegas que realizam ecoendoscopia e ainda nao sao amigos do CLEUS a preencher este questionario. Envie este e-mail para seu colega para ele poder participar da pesquisa."
+msgstr "Solicitamos seu apoio incentivando os seus colegas que realizam ecoendoscopia e ainda não são amigos do CLEUS a preencher este questionário. Envie este e-mail para seu colega para ele poder participar da pesquisa."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:38
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:67
+msgid "Se voce tem alguma duvida ou comentarios, por favor, nao hesite em nos comunicar: "
+msgstr "Se voce tem alguma duvida ou comentarios, por favor, nao hesite em nos comunicar:"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:61
+msgid "Question&aacute;rio finalizado com sucesso!."
+msgstr "Question&aacute;rio finalizado com sucesso!"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:76
+msgid "O question&aacute;rio ainda pode ser alterado."
+msgstr "O question&aacute;rio ainda pode ser alterado."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:77
+msgid "Verifique se as respostas est&atilde;o corretas e finalize o question&aacute;rio por favor."
+msgstr "Verifique se as respostas est&atilde;o corretas e finalize o question&aacute;rio por favor."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:79
+msgid "Preencher Question&aacute;rio"
+msgstr "Preencher Question&aacute;rio"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:120
+msgid "Deseja realmente finalizar o questin&aacute;rio?"
+msgstr "Deseja realmente finalizar o questionário?"
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:121
+msgid "Ap&oacute;s finalizado, o question&aacute;rio n&atilde;o poder&aacute; ser alterado."
+msgstr "Ap&oacute;s finalizado, o question&aacute;rio n&atilde;o poder&aacute; ser alterado."
+
+#: C:/xampp/htdocs/questionario/survey/survey_page_final.php:132
+msgid "Algumas quest&otilde;es s&atilde;o de preenchimento obrigat&oacute;rio para finalizar o question&aacute;rio."
+msgstr "Algumas quest&otilde;es s&atilde;o de preenchimento obrigat&oacute;rio para finalizar o question&aacute;rio."
+
+#: C:/xampp/htdocs/questionario/user/activate.php:16
+msgid "Usuario nao ativado"
+msgstr "Usuário não ativado"
+
+#: C:/xampp/htdocs/questionario/user/activate.php:24
+msgid "Parabens, seu cadastro foi ativado com sucesso."
+msgstr "Parabéns, seu cadastro foi ativado com sucesso."
+
+#: C:/xampp/htdocs/questionario/user/activate.php:25
+msgid "Voce sera redirecionado para realizar o Login no site"
+msgstr "Voce será redirecionado para realizar o Login no site"
+
+#: C:/xampp/htdocs/questionario/user/activate.php:28
+msgid "Usuario Ativado com Sucesso"
+msgstr "Usuário ativado com sucesso"
+
+#: C:/xampp/htdocs/questionario/user/change_password.php:19
+msgid "Senhas invalidas"
+msgstr "Senhas inválidas"
+
+#: C:/xampp/htdocs/questionario/user/change_password.php:30
+#: C:/xampp/htdocs/questionario/user/change_password.php:40
+#: C:/xampp/htdocs/questionario/user/signup.php:102
+msgid "Senhas incompativeis, redigite."
+msgstr "Senhas incompatíveis, redigite."
+
+#: C:/xampp/htdocs/questionario/user/change_password.php:69
+#: C:/xampp/htdocs/questionario/user/edit_data.php:100
+msgid "Informacoes nao alteradas."
+msgstr "Informações não alteradas."
+
+#: C:/xampp/htdocs/questionario/user/change_password.php:76
+msgid "Sua senha foi modificada com sucesso"
+msgstr "Sua senha foi modificada com sucesso"
+
+#: C:/xampp/htdocs/questionario/user/change_password.php:85
+msgid "Senhas nao coincidem"
+msgstr "Senhas não coincidem"
+
+#: C:/xampp/htdocs/questionario/user/change_password.php:97
+msgid "Informe sua senha atual"
+msgstr "Informe sua senha atual"
+
+#: C:/xampp/htdocs/questionario/user/change_password.php:101
+msgid "Nova senha"
+msgstr "Nova senha"
+
+#: C:/xampp/htdocs/questionario/user/change_password.php:105
+msgid "Digite novamente"
+msgstr "Digite sua nova senha novamente:"
+
+#: C:/xampp/htdocs/questionario/user/change_password.php:109
+msgid "Alterar"
+msgstr "Alterar senha"
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:33
+msgid "Usu&aacute;rio n&atilde;o pode estar em branco."
+msgstr "Usu&aacute;rio n&atilde;o pode estar em branco."
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:41
+msgid "E-mail inv&aacute;lido"
+msgstr "E-mail inválido."
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:61
+#: C:/xampp/htdocs/questionario/user/signup.php:136
+msgid "Usuario j&aacute; existe."
+msgstr "Usuário já existente."
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:75
+#: C:/xampp/htdocs/questionario/user/signup.php:148
+msgid "E-mail j&aacute; cadastrado."
+msgstr "E-mail j&aacute; cadastrado."
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:109
+#: C:/xampp/htdocs/questionario/user/edit_data.php:116
+msgid "Alteracoes realizadas com sucesso"
+msgstr "Alterações realizadas com sucesso"
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:147
+msgid "Editar Dados"
+msgstr "Editar Dados"
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:150
+msgid "Para alterar senha, clique aqui."
+msgstr "Para alterar senha, clique aqui."
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:154
+#: C:/xampp/htdocs/questionario/user/signup.php:6
+#: C:/xampp/htdocs/questionario/user/view_data.php:46
+msgid "Nome:"
+msgstr "Nome:"
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:159
+#: C:/xampp/htdocs/questionario/user/signup.php:10
+#: C:/xampp/htdocs/questionario/user/view_data.php:50
+msgid "Sobrenome:"
+msgstr "Sobrenome:"
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:164
+#: C:/xampp/htdocs/questionario/user/view_data.php:54
+msgid "Usuario:"
+msgstr "Usuário:"
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:168
+#: C:/xampp/htdocs/questionario/user/view_data.php:58
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:172
+msgid "Idioma:"
+msgstr "Idioma:"
+
+#: C:/xampp/htdocs/questionario/user/edit_data.php:199
+msgid "Salvar alteracoes"
+msgstr "Salvar alterações"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:1
+#: C:/xampp/htdocs/questionario/user/login.php:75
+msgid "Esqueci minha senha"
+msgstr "Esqueci minha senha"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:3
+msgid "Informe seu email"
+msgstr "Informe seu e-mail"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:23
+msgid "Seu email nao foi encontrado na base de dados"
+msgstr "Seu e-mail não foi encontrado na base de dados"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:41
+msgid "Alteracao de Senha"
+msgstr "Alteração de Senha"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:42
+msgid "Ola"
+msgstr "Olá"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:43
+msgid "Recebemos a solicitacao de mudanca de senha e abaixo segue uma nova senha temporaria junto de seu username"
+msgstr "Recebemos a solicitação de mudança de senha e abaixo segue uma nova senha temporária junto de seu nome de usuário"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:44
+#: C:/xampp/htdocs/questionario/user/login.php:55
+msgid "Senha"
+msgstr "Senha"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:45
+msgid "Apos realizar o login no sistema, por gentileza altere a senha novamente por questoes de seguranca."
+msgstr "Após realizar o login no sistema, por gentileza, altere a senha novamente por questões de segurança."
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:70
+msgid "Nova senha nao foi gerada. Tente novamente, por favor"
+msgstr "Nova senha não foi gerada. Tente novamente, por favor"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:83
+msgid "Falha no envio de email. Tente novamente"
+msgstr "Falha no envio de e-mail. Tente novamente"
+
+#: C:/xampp/htdocs/questionario/user/forgot_password.php:91
+msgid "Operacao realizada com sucesso, email enviado."
+msgstr "Operação realizada com sucesso, e-mail enviado."
+
+#: C:/xampp/htdocs/questionario/user/login.php:14
+#: C:/xampp/htdocs/questionario/user/login.php:20
+msgid "Usu&aacute;rio ou senha inv&aacute;lidos"
+msgstr "Usu&aacute;rio ou senha inv&aacute;lidos"
+
+#: C:/xampp/htdocs/questionario/user/login.php:35
+msgid "Se você não possui cadastro, "
+msgstr "Se você não possui cadastro, "
+
+#: C:/xampp/htdocs/questionario/user/login.php:35
+msgid "cadastre-se."
+msgstr "cadastre-se."
+
+#: C:/xampp/htdocs/questionario/user/logout.php:5
+msgid "Logout efetuado com sucesso"
+msgstr "Logout efetuado com sucesso"
+
+#: C:/xampp/htdocs/questionario/user/modelo_main.php:5
+msgid "Ola,"
+msgstr "Olá,"
+
+#: C:/xampp/htdocs/questionario/user/modelo_main.php:8
+msgid "Seja bem-vindo!"
+msgstr "Seja bem-vindo!"
+
+#: C:/xampp/htdocs/questionario/user/modelo_main.php:15
+msgid "Preencher/Ver Questionario"
+msgstr "Preencher/Ver Questionário"
+
+#: C:/xampp/htdocs/questionario/user/signup.php:2
+msgid "Formulario de Cadastro"
+msgstr "Formulário de Cadastro"
+
+#: C:/xampp/htdocs/questionario/user/signup.php:4
+msgid "efetue seu login."
+msgstr "efetue seu login."
+
+#: C:/xampp/htdocs/questionario/user/signup.php:14
+msgid "Username:"
+msgstr "Nome do usuário:"
+
+#: C:/xampp/htdocs/questionario/user/signup.php:18
+msgid "Email:"
+msgstr "E-mail:"
+
+#: C:/xampp/htdocs/questionario/user/signup.php:22
+msgid "Senha:"
+msgstr "Senha:"
+
+#: C:/xampp/htdocs/questionario/user/signup.php:26
+msgid "Digite sua senha novamente:"
+msgstr "Digite sua senha novamente:"
+
+#: C:/xampp/htdocs/questionario/user/signup.php:67
+msgid "Ativacao da Conta"
+msgstr "Ativação da Conta"
+
+#: C:/xampp/htdocs/questionario/user/signup.php:68
+msgid "Caro(a)"
+msgstr "Caro(a)"
+
+#: C:/xampp/htdocs/questionario/user/signup.php:69
+msgid "O link abaixo ativara sua conta. Clique no link ou copie e cole o endereco no seu navegador."
+msgstr "O link abaixo ativará sua conta. Clique no link ou copie e cole o endereço no seu navegador."
+
+#: C:/xampp/htdocs/questionario/user/signup.php:92
+msgid "Usuário inválido. Não utilize espaço ou caracteres especiais."
+msgstr "Usuário inválido. Não utilize espaço ou caracteres especiais."
+
+#: C:/xampp/htdocs/questionario/user/signup.php:117
+msgid "Usuario invalido."
+msgstr "Usuário inválido."
+
+#: C:/xampp/htdocs/questionario/user/signup.php:124
+msgid "Email invalido."
+msgstr "E-mail inválido."
+
+#: C:/xampp/htdocs/questionario/user/signup.php:160
+msgid "Falha no envio de email. Tente novamente, por favor."
+msgstr "Falha no envio de e-mail. Tente novamente, por favor."
+
+#: C:/xampp/htdocs/questionario/user/signup.php:206
+msgid "Falha no cadastro. Tente novamente, por favor."
+msgstr "Falha no cadastro. Tente novamente, por favor."
+
+#: C:/xampp/htdocs/questionario/user/signup.php:217
+msgid "Seu cadastro foi realizado com sucesso e um email foi enviado para ativacao"
+msgstr "Seu cadastro foi realizado com sucesso e um e-mail foi enviado para ativação"
+
+#: C:/xampp/htdocs/questionario/user/user_auth.php:30
+msgid "Acesso Restrito."
+msgstr "Acesso Restrito."
+
+#: C:/xampp/htdocs/questionario/user/view_data.php:42
+msgid "Consulta de Dados"
+msgstr "Consulta de Dados"
+
+#: C:/xampp/htdocs/questionario/user/view_data.php:62
+msgid "Status:"
+msgstr "Status:"
+
+#: C:/xampp/htdocs/questionario/user/view_data.php:66
+msgid "Data de criacao:"
+msgstr "Data de criação:"
+
+#: C:/xampp/htdocs/questionario/user/view_data.php:70
+msgid "Ultima modificacao:"
+msgstr "Última modificação:"
+
+#: C:/xampp/htdocs/questionario/user/view_data.php:74
+msgid "Chave de privacidade:"
+msgstr "Chave de privacidade:"
+
+#: C:/xampp/htdocs/questionario/user/view_data.php:84
+msgid "Clique aqui para editar dados do Usu&aacute;rio"
+msgstr "Clique aqui para editar dados do Usu&aacute;rio"
+
+#~ msgid "Log de Envio de e-mails"
+#~ msgstr "Log de Envio de e-mails"
+
+#~ msgid "Opcoes"
+#~ msgstr "Opções"
+
+#~ msgid "Aprovando usuario"
+#~ msgstr "Aprovando usuário"
+
+#~ msgid "Questionario"
+#~ msgstr "Questionário"
+
+#~ msgid "Inicio"
+#~ msgstr "Início"
+
+#~ msgid "Questionarios"
+#~ msgstr "Questionários"
+
+#~ msgid "Adicionando Destinatario"
+#~ msgstr "Adicionando Destinatário"
+
+#~ msgid "Survey Pages"
+#~ msgstr "Página dos Questionários"
+
+#~ msgid "E-mail principal: "
+#~ msgstr "E-mail principal: "
+
+#~ msgid "Ver Mensagem Final"
+#~ msgstr "Ver Mensagem Final"

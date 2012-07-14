@@ -1,0 +1,1516 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* ===================================================================== */
+
+.clear
+{
+	clear: both;
+}
+
+strong
+{
+	font-weight: bold;
+}
+
+body
+{
+	background: #eee;
+	margin: 0;
+	font-family: Verdana, Tahoma, Arial, Helvetica;
+	color: #000;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+a
+{
+	color: #0193a5;
+}
+
+a:hover, a:visited:hover
+{
+	text-decoration: none;
+}
+
+a:active
+{
+	color: #f00;
+}
+
+#background
+{
+	margin-top: -18px;
+}
+
+#wrapper
+{
+	width: 990px;
+	margin: 0 auto;
+	background: #fff url(../images/bg1.png) repeat-x top left;
+	border: 0px solid #ccc;
+	padding: 30px;
+	-webkit-box-shadow:  0px 0px 30px 0px #ccc;
+    -moz-box-shadow:  0px 0px 30px 0px #ccc;
+    box-shadow:  0px 0px 30px 0px #ccc;
+	
+}
+
+#top
+{
+	margin-bottom: 50px;
+	padding: 10px;
+	clear: both;
+	height: 20px;
+
+}
+
+#content
+{
+	min-height: 600px;
+}
+
+#menu
+{
+	padding: 10px;
+	float: right;
+	display: block;
+	float: right;
+	width: 500px;	
+	background: #fff;	
+	-webkit-box-shadow:  0px 0px 15px 0px #9fd5dc;	
+    -moz-box-shadow:  0px 0px 15px 0px #9fd5dc;	
+    box-shadow:  0px 0px 15px 0px #9fd5dc;	
+
+	
+	border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-webkit-border-top-left-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	behavior: url(PIE.htc);	
+}
+
+#menu ul
+{
+	clear: both;
+	float: right;
+	display: block;
+	text-align: right;
+}
+
+#menu ul li
+{
+	display: block;
+	float: left;
+	margin-left: 17px;
+}
+
+ul#change_lang
+{
+	margin-top: 15px;
+}
+
+#top-menu li a
+{
+	padding-left: 17px;
+}
+
+#mn-inicio a
+{
+	background: transparent url(../images/sm_home.png) no-repeat top left;
+}
+
+#mn-principal a
+{
+	background: transparent url(../images/sm_menu.png) no-repeat top left;
+}
+
+
+#top #mn-editar-dados a
+{
+	background: transparent url(../images/sm_personal.png) no-repeat top left;
+}
+
+#top #mn-login a
+{
+	background: transparent url(../images/sm_login.png) no-repeat top left;
+}
+
+
+#top #mn-cadastrar a
+{
+	background: transparent url(../images/sm_signup.png) no-repeat top left;
+}
+
+
+#mn-sair a
+{
+	background: transparent url(../images/sm_logout.png) no-repeat top left;
+}
+
+li.lang_selected a
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: #000;
+}
+
+
+#footer
+{
+	padding: 20px 0;
+}
+
+.message_sucess
+{
+	text-align: center;
+	border: 1px dotted #50800c;
+	background: #c7ed91;
+	padding: 10px;
+	font-size: 16px;
+	margin: 10px 0;	
+}
+
+.message_error
+{
+	text-align: center;
+	border: 1px dotted #c83724;
+	background: #e9988e;
+	padding: 10px;
+	font-size: 16px;
+	margin: 10px 0;
+}
+
+.logo-trajettoria
+{
+	background: transparent url(../images/logo_trajettoria.png) no-repeat top left;
+	display: block;
+	width: 75px;
+	height: 23px;
+	text-indent: -10000px;
+	float: right;
+}
+
+h1#logo-principal
+{
+	text-indent: -10000px;
+	background: transparent url(../images/logo_cleus.png) no-repeat top left;
+	display: block;
+	float: left;
+	width: 393px;
+	height: 100px;
+	margin-top: -30px;
+	margin-left: -30px;
+}
+
+#frmLogin label, #frmSignup label, #frmEdit label, #frmChangePassword label
+{
+	width: 450px;
+	text-align: right;
+	display: block;
+	margin-right: 10px;
+	font-size: 14px;
+	float: left;	
+}
+
+#frmLogin input, #frmEdit input, #frmChangePassword input
+{
+	padding: 5px;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+#frmSignup
+{
+	height: 400px;
+}
+
+#frmSignup input
+{
+	padding: 5px;
+	font-size: 14px;
+	margin-bottom: 10px;
+	display: block;
+	float: left;
+	clear: right;
+}
+
+#frmSignup #submit, #frmEdit #edit_data, #frmChangePassword #alterarSenha
+{
+	margin-left: 460px;
+}
+
+#frmSignup #surname
+{
+	width: 300px;
+}
+
+#frmSignup #emailCadastro
+{
+	width: 300px;
+}
+
+#frmSignup > p, #frmLogin > p, #frmEdit > p
+{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.top-alert
+{
+	border: 1px dotted #ccc;
+	background: #eee;
+	padding: 20px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+h2
+{
+	font-size: 24px;
+	font-weight: bold;
+	color: #107fb9;
+	text-align: left;
+	margin-bottom: 30px;
+	clear: both;
+	border-bottom: 2px dotted #107fb9;
+	padding-bottom: 15px;
+	line-height: 30px;
+}
+
+a#link-forgot
+{
+	margin-left: 460px;
+	margin-top: -20px;
+}
+
+.page_welcome p
+{
+	margin: 20px 0;
+	font-size: 14px;
+}
+
+.page_welcome h2
+{
+	margin-top: 30px;
+}
+
+.page_welcome li
+{
+	font-size: 16px;
+	display: block;
+	float: left;
+	width: 436px;
+	padding: 20px;
+	background: #eee;
+	border: 1px dotted #ccc;
+	font-weight: bold;
+}
+
+.page_welcome li a
+{
+	display: block;
+}
+
+#welcome-login
+{
+	margin-right: 30px;
+	background: #eee url(../images/login_icon.png) no-repeat center 20px;	
+}
+
+#welcome-signup
+{
+	background: #eee url(../images/signup_icon.png) no-repeat center 20px;
+}
+
+#report_menu #mn-export-data
+{
+	background: #eee url(../images/sm_export.png) no-repeat center 20px;
+}
+
+#report_menu #mn-estatistics-survey-answers
+{
+	background: #eee url(../images/sm_html.png) no-repeat center 20px;
+}
+
+
+#saudacao p
+{
+	text-align: left;
+	font-size: 16px;
+	
+}
+
+.page_modelo_main p, .page_main p
+{
+	text-align: center;
+}
+
+.main_menu
+{
+	margin: 30px -30px 0 0;
+}
+
+.main_menu li
+{
+	display: block;
+	float: left;
+	padding: 200px 20px 20px 20px;
+	background: #eee;
+	border: 1px dotted #ccc;
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+	width: 268px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+.menu_index li
+{
+	width: 435px;
+}
+
+#user_menu #mn-preencher
+{
+	background: #eee url(../images/question_icon.png) no-repeat center 20px;
+}
+
+#content #user_menu #mn-editar-dados, #content #control_panel_menu #mn-editar-dados
+{
+	background: #eee url(../images/signup_icon.png) no-repeat center 20px;
+}
+
+#user_menu #mn-alterar-senha, #content #control_panel_menu #mn-alterar-senha
+{
+	background: #eee url(../images/pass_icon.png) no-repeat center 20px;
+}
+
+#control_panel_menu #mn-settings
+{
+	background: #eee url(../images/settings_icon.png) no-repeat center 20px;
+}
+
+#control_panel_menu #mn-users
+{
+	background: #eee url(../images/users_icon.png) no-repeat center 20px;
+}
+
+#control_panel_menu #mn-recipients
+{
+	background: #eee url(../images/recipients_icon.png) no-repeat center 20px;
+}
+
+#control_panel_menu #mn-reports
+{
+	background: #eee url(../images/reports_icon.png) no-repeat center 20px;
+}
+
+h3
+{
+	text-align: left;
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: 1px dotted #ccc;
+	padding: 10px;
+	margin: 10px 0 20px 0;
+	color: #aaa;
+}
+
+ul#menu_survey_page
+{
+	float: right;
+}
+
+ul#menu_survey_page li
+{
+	display: block;
+	float: left;
+	margin-left: 5px;
+}
+
+ul#menu_survey_page li a
+{
+	display: block;
+	padding: 6px;
+	border: 1px dotted #ccc;
+	background: #eee;
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+ul#menu_survey_page li a:hover, ul#menu_survey_page li a:visited:hover
+{
+	background: #ccc;
+	text-decoration: none;
+}
+
+.question_header
+{
+	font-style: italic;
+	background: #ddd;
+	padding: 10px;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+.question_subheader
+{
+	font-style: italic;
+	background: #eee;
+	padding: 5px;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+
+.survey_notice
+{
+	margin: 10px 0 20px 0;
+	font-style: italic;
+	text-align: center;
+}
+
+.tbl_question_body th
+{
+	padding: 5px 10px 5px 5px;
+}
+
+.tbl_question_body input
+{
+	padding: 5px;
+}
+
+.bt_next_page_survey
+{
+	padding: 5px;
+	float: left;
+	margin-left: 30px;
+}
+
+.bt_save_survey
+{
+	padding: 5px;
+	float: left;
+	margin-left: 395px;
+}
+
+.question1
+{
+	width: 250px;
+}
+
+#tbl_list_question7
+{
+	border-collapse: collapse;
+}
+
+#tbl_list_question7 thead th
+{
+	font-weight: bold;
+}
+
+#tbl_list_question7 tbody th
+{
+	text-align: right;
+	border: 1px solid #ccc !important;
+}
+
+#tbl_list_question7 td
+{
+	border: 1px solid #ccc !important;
+	text-align: center;
+}
+
+#tbl_list_question9 input
+{
+	width: 250px;
+}
+
+.question10
+{
+	margin: 10px 3px 30px 40px ;
+}
+
+.question27
+{
+	margin: 10px 3px 30px 40px ;
+}
+
+#tbl_list_question13 th
+{
+	text-align: right;
+}
+
+#tbl_list_question13 input
+{
+	width: 50px;
+}
+
+#tbl_list_question15 input
+{
+	width: 50px;
+}
+
+#tbl_list_question15
+{
+	margin-bottom: 20px;
+}
+
+#tbl_list_question16 input
+{
+	width: 50px;
+}
+
+#tbl_list_question16 th
+{
+	text-align: right;
+}
+
+#tbl_list_question17a
+{
+	border-collapse: collapse;
+}
+
+#tbl_list_question17a thead th
+{
+	font-weight: bold;
+}
+
+#tbl_list_question17a tbody th
+{
+	text-align: right;
+	border: 1px solid #ccc !important;
+}
+
+#tbl_list_question17a td
+{
+	border: 1px solid #ccc !important;
+	text-align: center;
+}
+
+#tbl_list_question17b input
+{
+	width: 300px;
+}
+
+
+
+
+
+
+#tbl_list_question18a
+{
+	border-collapse: collapse;
+}
+
+#tbl_list_question18a thead th
+{
+	font-weight: bold;
+}
+
+#tbl_list_question18a tbody th
+{
+	text-align: right;
+	border: 1px solid #ccc !important;
+}
+
+#tbl_list_question18a td
+{
+	border: 1px solid #ccc !important;
+	text-align: center;
+}
+
+#tbl_list_question18a input
+{
+	width: 90px;
+	border: 0;
+}
+
+#tbl_list_question18b input
+{
+	width: 300px;
+}
+
+
+#tbl_list_question19 th
+{
+	text-align: left;
+}
+
+#tbl_list_question19 input
+{
+	width: 50px;
+}
+
+#tbl_list_question20 th
+{
+	text-align: left;
+}
+
+#tbl_list_question20 input
+{
+	width: 50px;
+}
+
+#tbl_list_question15 th
+{
+	text-align: left;
+}
+
+#tbl_list_question30 th, #tbl_list_question31 th
+{
+	text-align: right;
+}
+
+.question32, .question33, .question34, .question35, .question36
+{
+	padding: 5px;
+}
+
+.page_welcome h2
+{
+	margin-top: 70px !important;
+}
+
+.tabela_settings thead th, .tabela_settings thead td
+{
+	font-weight: bold;
+}
+
+.tabela_settings input
+{
+	width: 250px;
+}
+
+.tabela_settings tbody th
+{
+	text-align: right;
+	padding: 5px 10px 5px 5px;
+}
+
+
+/** lista de usuários **/
+td.tt_name, th#lbl_user_name
+{
+	width: 80px;
+}
+
+#ListUsers input#user_name 
+{
+	width: 80px;
+}
+
+
+td.tt_lastname, th#lbl_lbl_user_lastname
+{
+	width: 120px;
+}
+
+#ListUsers input#user_lastname
+{
+	width: 120px;
+}
+
+
+td.tt_username, th#lbl_user_username
+{
+	width: 80px;
+}
+
+#ListUsers input#user_username 
+{
+	width: 80px;
+}
+
+td.tt_email, th#lbl_user_email
+{
+	width: 160px;
+}
+
+#ListUsers input#user_email
+{
+	width: 160px;
+}
+
+
+td.tt_lang, th#lbl_user_lang
+{
+	width: 30px;
+}
+
+#ListUsers select#user_lang
+{
+	width: 30px;
+	font-size: 10px;
+	padding: 3px 0;
+}
+
+
+td.tt_status, th#lbl_user_status
+{
+	width: 70px;
+}
+
+#ListUsers select#user_status
+{
+	width: 70px;
+	font-size: 10px;
+	padding: 3px 0;
+}
+
+
+
+td.tt_credential, th#lbl_user_credential
+{
+	width: 70px;	
+}
+
+#ListUsers select#user_credential
+{
+	width: 70px;
+	font-size: 10px;
+	padding: 3px 0;
+}
+
+
+td.tt_survey_status, th#lbl_survey_status
+{
+	width: 70px;
+	
+}
+
+#ListUsers select#survey_status
+{
+	width: 70px;
+	font-size: 10px;
+	padding: 3px 0;
+}
+
+
+td.tt_options, th#lbl_user_options
+{
+	/* width: 110px; */
+}
+
+td.tt_options ul { display: none; }
+td.tt_options:hover ul
+{
+	display: block;
+}
+
+td.tt_options ul
+{
+	margin-bottom: 5px;
+	list-style: disc;
+}
+
+td.tt_options ul li
+{
+	margin: 5px;
+}
+
+
+#ListUsers
+{
+	font-family: Verdana, "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 14px;
+	
+	width: 990px;
+	text-align: left;
+	border-collapse: collapse;
+}
+#ListUsers th
+{
+	font-size: 12px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe url('../images/gradhead.png') repeat-x;
+	border-top: 2px solid #d3ddff;
+	border-bottom: 1px solid #fff;
+	color: #039;
+}
+#ListUsers td
+{
+	font-size: 11px;
+	padding: 8px; 
+	border-bottom: 1px solid #fff;
+	color: #669;
+	border-top: 1px solid #fff;
+	background: #e8edff url('../images/gradback.png') repeat-x;
+}
+#ListUsers tfoot tr td
+{
+	background: #e8edff;
+	font-size: 12px;
+	color: #99c;
+}
+#ListUsers tbody tr:hover td
+{
+	background: #d0dafd url('../images/gradhover.png') repeat-x;
+	color: #339;
+}
+
+
+
+#ListRecipients
+{
+	font-family: Verdana, "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 14px;
+	
+	width: 990px;
+	text-align: left;
+	border-collapse: collapse;
+}
+#ListRecipients th
+{
+	font-size: 12px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe url('../images/gradhead.png') repeat-x;
+	border-top: 2px solid #d3ddff;
+	border-bottom: 1px solid #fff;
+	color: #039;
+}
+#ListRecipients td
+{
+	font-size: 11px;
+	padding: 8px; 
+	border-bottom: 1px solid #fff;
+	color: #669;
+	border-top: 1px solid #fff;
+	background: #e8edff url('../images/gradback.png') repeat-x;
+}
+#ListRecipients tfoot tr td
+{
+	background: #e8edff;
+	font-size: 12px;
+	color: #99c;
+}
+#ListRecipients tbody tr:hover td
+{
+	background: #d0dafd url('../images/gradhover.png') repeat-x;
+	color: #339;
+}
+
+/** tabela de paginação **/
+.TableClean tbody tr th
+{
+	background: #b9c9fe;
+	padding: 5px;
+	border: 2px solid #fff;
+}
+
+.TableClean tbody button
+{
+	padding: 3px;
+	font-size: 12px;
+	font-weight: bold;
+	width: 25px;
+}
+
+.TableClean #PaginaAtual
+{
+	width: 30px;
+}
+
+.TableClean #TotalPaginas
+{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.TableClean #TotalRegistros
+{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+
+.tbl_datagrid label
+{
+	padding: 5px;
+	text-align: right;
+	width: 450px;
+	margin-right: 10px;
+	display: block;
+}
+
+#bt_holder1
+{
+	width: 500px;
+	margin-left: 245px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#bt_holder1 input
+{
+	padding: 5px;
+}
+
+#table_deny_user label, #table_approve_user label, #table_users_credentials label, #table_Activate_user label
+{
+	padding: 5px;
+	text-align: right;
+	width: 450px;
+	margin-right: 10px;
+	display: block;
+}
+
+ #table_resend_recipients label
+ {
+ padding: 5px;
+ }
+
+
+#table_delete_recipients th
+{
+	padding: 5px;
+	font-weight: bold;
+	text-align: left;
+}
+
+#table_delete_recipients td
+{
+	padding: 5px;
+	text-align: left;
+}
+
+#recipient_info th
+{
+	padding: 5px;
+	text-align: right;
+	margin-right: 10px;
+	font-weight: bold;
+	width: 450px;
+}
+
+#recipient_info td
+{
+	padding: 5px;
+	text-align: left;
+}
+
+#msg_log_envio
+{
+	font-weight: bold;
+	margin-left: 400px;
+	margin-top: 40px;
+	display: block;
+	float: left;
+}
+
+#table_add_recipients label
+{
+	padding: 5px;
+	text-align: right;
+	width: 450px;
+	margin-right: 10px;
+	display: block;
+}
+
+#form_add_recipients #bt_save, #form_add_recipients #bt_cancel
+{
+	padding: 5px;
+}
+
+#bt_holder2
+{
+	margin-left: 420px;
+}
+
+ul#recipients_menu li
+{
+	display: block;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 30px;
+}
+
+#AccessLogs td
+{
+	padding: 3px 5px;
+	border-bottom: 1px solid #ccc;
+}
+
+#AccessLogs th
+{
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#AccessLogs
+{
+	width: 990px;
+}
+
+.contentIncluded.module_control_panel.page_users
+{
+	margin-bottom: 200px;
+}
+
+span.ui-icon
+{
+	width: 8px;
+	height: 7px;
+	margin-top: 5px !important;
+}
+
+span.ui-icon-triangle-2-n-s
+{
+	background: transparent url(../images/ic_triangles.png) no-repeat center top;
+}
+
+span.ui-icon-triangle-1-s
+{
+	background: transparent url(../images/ic_triangle_1s.png) no-repeat center top;
+}
+
+
+span.ui-icon-triangle-1-n
+{
+	background: transparent url(../images/ic_triangle_1n.png) no-repeat center top;
+}
+
+li#mn-estatistics-survey-access
+{
+	display: none;
+}
+
+
+
+#survey_report .enunciado
+{
+	background: #ccc;
+	font-style: italic;
+	margin: 10px;
+	font-size: 14px;
+	padding: 5px 15px 5px 5px;
+}
+
+#survey_report .enunciado span
+{
+	font-weight: bold;
+	margin-right: 10px;
+	font-size: 14px;
+}
+
+#survey_report .questao
+{
+	border: 1px solid #ccc;
+	margin: 20px 0;
+}
+
+.rp1_left
+{
+	display: block;
+	float: left;
+	padding: 30px;
+}
+
+.rp1_right
+{
+	display: block;
+	float: left;
+	padding: 30px;
+}
+
+.rp1_center
+{
+	display: block;
+	float: left;
+	padding: 30px;
+}
+
+.rp1_sumario
+{
+	text-align: center;
+	font-weight: bold;
+	margin: 15px 0 0 0;
+}
+
+.report1 th, .report1 td
+{
+	padding: 5px;
+	border: 2px solid #fff;
+}
+
+.report1 thead th
+{
+	background: #ddd;
+	font-weight: bold;
+}
+
+.report1 tbody th
+{
+	background: #eee;
+	font-weight: bold;
+	width: 200px !important;
+	text-align: right;
+}
+
+.report1 tbody tr td, .report1 tbody tr th
+{
+	text-align: center;
+	border: 1px solid #ccc;
+}
+
+#obs_report_survey { display: none; }
+
+#report_setup
+{
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+	margin: 15px 0;
+}
+
+.report_setup_div
+{
+	display: block;
+	float: left;
+	width: 455px;
+	padding: 10px;
+	border: 1px dotted #ccc;
+	background: #eee;
+	height: 130px;
+}
+
+#setup_user_status
+{
+	margin-right: 30px;
+}
+
+.report_setup_options
+{
+	margin-left: 180px;
+}
+
+.setup_title
+{
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 10px;
+}
+
+#bt_save_setup
+{
+	padding: 5px;
+	font-size: 14px;
+	margin: 15px 0 15px 420px;
+}
+
+#msg_report
+{
+	font-weight: bold;
+	color: red;
+	margin: 8px 0;
+	display: block;
+}
+
+.setup_list
+{
+	margin: 0 0 10px 0;
+	display: block;
+	margin: 10px 0;
+	border: 1px dotted #0f0;
+	background: #D0ECA8;
+	padding: 5px;
+}
+
+.setup_list li
+{
+	margin-bottom: 3px;
+}
+
+#report_total_pessoas
+{
+	text-align: center;
+	font-size: 14px;
+}
+
+#num_pessoas
+`{
+	font-weight: bold !important;
+}
+
+#form_approve_survey p, .page_survey_page_final p, .page_survey_page_final a
+{
+	line-height: 22px;
+	font-size: 14px;
+}
+
+#form_approve_survey input
+{
+	padding: 5px;
+	font-size: 14px;
+	margin: 10px 0;
+}
+
+.page_reports_survey_answers #message_sucess
+{
+	display: none;
+}
+
+.exp_heading
+{
+	cursor: pointer;
+	color: #000;
+}
+
+#link_toggle
+{
+	cursor: pointer;
+}
+
+
+a.seletor_toggle
+{
+	font-size: 9px;
+	font-style: normal;
+	display: block;
+	float: right;
+	margin-left: 10px;
+	background: #dfdfdf;
+	padding: 0px 3px;
+	margin-right: -10px;
+}
+
+
+.max_container
+{
+	/*background: #ddd url(../images/escala1.png) no-repeat 7px 30px;*/
+	background: transparent url(../images/left_arrow.png) no-repeat center center;
+	float: left;
+}
+
+.instrucoes_drag
+{
+	clear: both;
+	float: left;
+	font-size: 12px;
+	font-style: italic;
+	color: #6694af;
+	text-align: center;
+	margin: 10px 0;
+	padding: 0 200px;
+}
+
+.container
+{
+	border:1px dotted #ddd;
+	background: #f2f2f2;
+	padding: 5px 7px 3px 5px;
+	width: 430px;
+	float: left;
+	display: block;
+}
+
+#left_container
+{
+	margin-right: 100px;
+}
+
+#left_container .sortable_item
+{
+	color: #000;
+	background: #b9c9fe url('../images/gradhead.png') repeat-x;
+	padding: 6px;	
+}
+
+#right_container .sortable_item
+{
+	color: #aaa;
+	background: #e8edff url('../images/gradback.png') repeat-x;
+	padding: 8px;
+}
+
+#left_container .sortable_item:hover
+{
+	color: #000;
+	background: #d0dafd url('../images/gradhover.png') repeat-x;
+}
+
+#right_container .sortable_item:hover
+{
+	color: #000;
+	background: #b9c9fe url('../images/gradhead.png') repeat-x;
+}
+
+.sortable_item
+{
+	font-size: 14px;
+	display: block;
+	float: left;
+	width: auto;
+	border:1px dotted #aaa;
+	clear: both;
+	width: 415px;
+	margin-bottom: 3px;
+	text-align: center;
+	cursor: move;
+	font-weight: bold;
+	font-family: Arial;
+	
+	-webkit-box-shadow:  0px 2px 5px 0px #ddd;	
+    -moz-box-shadow:  0px 2px 5px 0px #ddd;	
+    box-shadow:  0px 2px 5px 0px #ddd;	
+
+	
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	behavior: url(PIE.htc);	
+}
+
+.ui-state-highlight * { visibility: hidden; }
+
+.ui-state-highlight
+{
+	visibility: visible !important;
+	font-size: 14px;
+	display: block;
+	float: left;
+	width: auto;
+	padding: 8px;
+	border:1px dotted #000;
+	background: #dfff9a;
+	clear: both;
+	width: 415px;
+	margin-bottom: 5px;
+	color: #656a6b;
+	text-align: center;
+	cursor: move;
+	height: 18px;
+	
+	-webkit-box-shadow:  0px 2px 5px 0px #ddd;	
+    -moz-box-shadow:  0px 2px 5px 0px #ddd;	
+    box-shadow:  0px 2px 5px 0px #ddd;	
+
+	
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	behavior: url(PIE.htc);		
+}
+
+#left_container .classificacao
+{
+	font-size: 16px;
+	font-weight: bold;
+	color: #ff8a00;
+	text-align: left;
+	display: block;
+	float: left;
+	background: #fff;
+	padding: 4px;
+	margin: -2px;
+	
+	border-radius:5px 5px 5px 5px;
+	-moz-border-radius:5px 5px 5px 5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	behavior: url(PIE.htc);		
+}
+
+#q18 .container { min-height: 470px; }
+#q19 .container { min-height: 200px; }
+#q20a .container { min-height: 238px; }
+#q20b .container { min-height: 160px; }
+#q20c .container { min-height: 200px; }
+#q20d .container { min-height: 175px; }
+#q20e .container { min-height: 275px; }
+
+#tbl_list_question18a, #tbl_list_question19, #tbl_list_question20a, #tbl_list_question20b, #tbl_list_question20c, #tbl_list_question20d, #tbl_list_question20e
+{
+	display: none;
+}
+
+#sent_info td
+{
+	padding: 5px;
+}
+
+#sent_info th
+{
+	font-weight: bold;
+}
+
+#table_resend_recipients td
+{
+	padding: 5px;
+}
+
+#table_resend_recipients th
+{
+	font-weight: bold;
+}
+
+#frmForgot label
+{
+	padding: 5px;
+}
+
+#table_send_reminder td
+{
+	padding: 5px;
+}
+
+#table_send_reminder th
+{
+	padding: 5px;
+	font-weight: bold;
+}
